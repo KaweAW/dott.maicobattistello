@@ -26,7 +26,7 @@ export default function Breadcrumb({ items }: BreadcrumbProps) {
               <li key={index}>
                 <div className="flex items-center">
                   <ChevronRight className="w-4 h-4 text-gray-400" />
-                  {index === items.length - 2 ? (
+                  {index === items.slice(1).length - 1 ? (
                     <span className="ml-1 text-sm text-gray-500 md:ml-2">{item.label}</span>
                   ) : (
                     <Link href={item.href} className="ml-1 text-sm text-primary hover:underline md:ml-2">
