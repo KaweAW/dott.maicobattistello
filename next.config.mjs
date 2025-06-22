@@ -7,10 +7,21 @@ const nextConfig = {
         destination: '/about-me',
         permanent: true,
       },
-      // Aggiungi altri redirect se necessario per altre pagine del vecchio sito
       {
         source: '/chi-sono',
         destination: '/about-me',
+        permanent: true,
+      },
+      // Redirect da www a non-www per consistenza SEO
+      {
+        source: '/:path*',
+        has: [
+          {
+            type: 'host',
+            value: 'www.dottmaicobattistello.it',
+          },
+        ],
+        destination: 'https://dottmaicobattistello.it/:path*',
         permanent: true,
       },
     ]

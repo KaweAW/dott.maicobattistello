@@ -39,18 +39,18 @@ export default function OzoneTherapyPage() {
         <QuadrantCarousel
           items={[
             {
-              title: "Trattamento di Ozonoterapia",
-              image: "/images/ozonoterapia3.jpg",
+              title: "Trattamento Combinato",
+              image: "/images/nuovaozonosteo1.jpg",
               link: "/ozone-therapy",
             },
             {
-              title: "Piccola Autoemoterapia",
-              image: "/images/nuovaozono1.jpg",
+              title: "Terapia Integrata",
+              image: "/images/osteozonoterapia1.jpg",
               link: "/ozone-therapy",
             },
             {
-              title: "Consulenza Specialistica",
-              image: "/images/nuovaozono2.jpg",
+              title: "Risultati Clinici",
+              image: "/images/osteozonoterapia2.jpg",
               link: "/ozone-therapy",
             },
             {
@@ -100,7 +100,7 @@ export default function OzoneTherapyPage() {
           <div className="md:w-1/2 order-2 md:order-1">
             <div className="rounded-lg overflow-hidden shadow-lg">
               <Image
-                src="/images/nuovaozonosteo2.jpg"
+                src="/images/gaet.jpg"
                 alt="Grande Autoemoterapia"
                 width={600}
                 height={400}

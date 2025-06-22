@@ -80,18 +80,38 @@ export default function OzoneOsteopathyPage() {
           <QuadrantCarousel
             items={[
               {
-                title: "Trattamento Combinato",
-                image: "/images/nuovaozonosteo1.jpg",
+                title: "Ozonoterapia Cervicale",
+                image: "/images/ozcervicale.jpg",
                 link: "/ozone-osteopathy",
               },
               {
-                title: "Terapia Integrata",
-                image: "/images/osteozonoterapia1.jpg",
+                title: "Osteopatia Cervicale",
+                image: "/images/oscervicale.jpg",
                 link: "/ozone-osteopathy",
               },
               {
-                title: "Risultati Clinici",
-                image: "/images/osteozonoterapia2.jpg",
+                title: "Consulenza Specialistica",
+                image: "/images/nuovaozono2.jpg",
+                link: "/ozone-osteopathy",
+              },
+              {
+                title: "Osteopatia Lombare",
+                image: "/images/oslombare.jpg",
+                link: "/ozone-osteopathy",
+              },
+              {
+                title: "Ozonoterapia Spalla",
+                image: "/images/ozspalla.jpg",
+                link: "/ozone-osteopathy",
+              },
+              {
+                title: "Osteopatia Spalla",
+                image: "/images/osspalla.jpg",
+                link: "/ozone-osteopathy",
+              },
+              {
+                title: "Trattamento di Ozonoterapia",
+                image: "/images/ozonoterapia3.jpg",
                 link: "/ozone-osteopathy",
               },
             ]}

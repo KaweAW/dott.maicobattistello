@@ -51,6 +51,11 @@ export default function OsteopathyPage() {
               image: "/images/nuovaosteo3.jpg",
               link: "/osteopathy",
             },
+            {
+              title: "Osteopatia Cervicale",
+              image: "/images/osteopatiacervicale.jpg",
+              link: "/osteopathy",
+            },
           ]}
         />
       </div>

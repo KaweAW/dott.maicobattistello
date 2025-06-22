@@ -239,7 +239,9 @@ export default function QuadrantCarousel({
                       items[itemIndex].image.includes("medlegale.jpg") ||
                       items[itemIndex].image.includes("osteopic.jpg")
                         ? "object-cover object-bottom"
-                        : "object-cover"
+                        : items[itemIndex].image.includes("nuovaosteo1.jpg")
+                          ? "object-cover object-[center_bottom]"
+                          : "object-cover"
                     }`}
                     sizes="(max-width: 768px) 100vw, 50vw"
                     priority={isCurrent}
