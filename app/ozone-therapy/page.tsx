@@ -3,7 +3,6 @@ import Breadcrumb from "@/components/breadcrumb"
 import ContactForm from "@/components/contact-form"
 import { Accordion, AccordionContent, AccordionItem, AccordionTrigger } from "@/components/ui/accordion"
 import QuadrantCarousel from "@/components/quadrant-carousel"
-import Image from "next/image"
 
 export default function OzoneTherapyPage() {
   return (
@@ -84,15 +83,13 @@ export default function OzoneTherapyPage() {
             </p>
           </div>
           <div className="md:w-1/2">
-            <div className="rounded-lg overflow-hidden shadow-lg">
-              <Image
-                src="/images/paet.jpg"
-                alt="Piccola Autoemoterapia"
-                width={600}
-                height={400}
-                className="w-full h-auto object-cover"
-                priority
-                unoptimized
+            <div className="rounded-lg overflow-hidden shadow-lg aspect-video w-full max-w-md md:max-w-none mx-auto">
+              <iframe
+                src="https://player.vimeo.com/video/1098971583?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0&app_id=58479"
+                className="w-full h-full"
+                frameBorder="0"
+                allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share"
+                title="PAET - Piccola Autoemoterapia"
               />
             </div>
           </div>
@@ -103,15 +100,13 @@ export default function OzoneTherapyPage() {
       <div className="container mx-auto px-4 py-8 max-w-4xl">
         <div className="flex flex-col md:flex-row gap-8 items-center mb-12">
           <div className="md:w-1/2 order-2 md:order-1">
-            <div className="rounded-lg overflow-hidden shadow-lg">
-              <Image
-                src="/images/gaet.jpg"
-                alt="Grande Autoemoterapia"
-                width={600}
-                height={400}
-                className="w-full h-auto object-cover"
-                priority
-                unoptimized
+            <div className="rounded-lg overflow-hidden shadow-lg aspect-video w-full max-w-md md:max-w-none mx-auto">
+              <iframe
+                src="https://player.vimeo.com/video/1098971008?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0&app_id=58479"
+                className="w-full h-full"
+                frameBorder="0"
+                allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share"
+                title="GAET - Grande Autoemoterapia"
               />
             </div>
           </div>
@@ -119,7 +114,7 @@ export default function OzoneTherapyPage() {
             <h3 className="text-xl font-semibold mb-4">Grande Autoemoterapia (GAET)</h3>
             <p className="text-lg mb-4">
               La Grande Autoemoterapia rappresenta la tecnica più avanzata dell'Ozonoterapia sistemica. Consiste nel
-              prelevare una <strong>maggiore quantità di sangue</strong> dal paziente (circa 100-200ml), ozonizzarlo in
+              prelevare una <strong>maggiore quantità di sangue</strong> dal paziente (circa 80-240ml), ozonizzarlo in
               modo controllato e reinfonderlo <strong>per via endovenosa</strong>.
             </p>
             <p className="text-lg">
