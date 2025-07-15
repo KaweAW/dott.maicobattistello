@@ -83,16 +83,14 @@ export default function OzoneTherapyPage() {
             </p>
           </div>
           <div className="md:w-1/2">
-            <div className="rounded-lg overflow-hidden shadow-lg">
-              <div style={{ padding: "56.25% 0 0 0", position: "relative" }}>
-                <iframe
-                  src="https://player.vimeo.com/video/1099674288?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0&app_id=58479"
-                  frameBorder="0"
-                  allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share"
-                  style={{ position: "absolute", top: 0, left: 0, width: "100%", height: "100%" }}
-                  title="PAET_finale"
-                />
-              </div>
+            <div className="rounded-lg overflow-hidden shadow-lg aspect-video w-full max-w-md md:max-w-none mx-auto">
+              <iframe
+                src="https://player.vimeo.com/video/1099674288?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0&app_id=58479"
+                className="w-full h-full"
+                frameBorder="0"
+                allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share"
+                title="PAET_finale"
+              />
             </div>
           </div>
         </div>
@@ -102,16 +100,14 @@ export default function OzoneTherapyPage() {
       <div className="container mx-auto px-4 py-8 max-w-4xl">
         <div className="flex flex-col md:flex-row gap-8 items-center mb-12">
           <div className="md:w-1/2 order-2 md:order-1">
-            <div className="rounded-lg overflow-hidden shadow-lg">
-              <div style={{ padding: "56.25% 0 0 0", position: "relative" }}>
-                <iframe
-                  src="https://player.vimeo.com/video/1099674406?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0&app_id=58479"
-                  frameBorder="0"
-                  allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share"
-                  style={{ position: "absolute", top: 0, left: 0, width: "100%", height: "100%" }}
-                  title="GAET_finale"
-                />
-              </div>
+            <div className="rounded-lg overflow-hidden shadow-lg aspect-video w-full max-w-md md:max-w-none mx-auto">
+              <iframe
+                src="https://player.vimeo.com/video/1099674406?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0&app_id=58479"
+                className="w-full h-full"
+                frameBorder="0"
+                allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share"
+                title="GAET_finale"
+              />
             </div>
           </div>
           <div className="md:w-1/2 order-1 md:order-2">
