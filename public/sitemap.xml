@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
-   Pagine Principali 
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <!-- Pagine Principali -->
   <url>
     <loc>https://dottmaicobattistello.it/</loc>
     <lastmod>2024-01-15</lastmod>
@@ -25,7 +25,7 @@
     </image:image>
   </url>
 
-   Servizi Principali 
+  <!-- Servizi Principali -->
   <url>
     <loc>https://dottmaicobattistello.it/ozone-therapy</loc>
     <lastmod>2024-01-15</lastmod>
@@ -74,7 +74,7 @@
     </image:image>
   </url>
 
-   Pagine Ozonoterapia Localizzate 
+  <!-- Pagine Ozonoterapia Localizzate -->
   <url>
     <loc>https://dottmaicobattistello.it/ozonoterapia-padova</loc>
     <lastmod>2024-01-15</lastmod>
@@ -83,7 +83,7 @@
     <image:image>
       <image:loc>https://dottmaicobattistello.it/images/nuovaozonosteo1.jpg</image:loc>
       <image:title>Ozonoterapia a Padova - Dr. Maico Battistello</image:title>
-      <image:caption>Specialista in ozonoterapia a Padova e provincia. Trattamenti per ernie discali e artrosi</image:caption>
+      <image:caption>Specialista in ozonoterapia a Padova. Trattamenti per ernie discali e artrosi</image:caption>
     </image:image>
   </url>
   
@@ -123,7 +123,7 @@
     </image:image>
   </url>
 
-   Pagine Osteopatia Localizzate 
+  <!-- Pagine Osteopatia Localizzate -->
   <url>
     <loc>https://dottmaicobattistello.it/osteopatia-padova</loc>
     <lastmod>2024-01-15</lastmod>
@@ -172,7 +172,7 @@
     </image:image>
   </url>
 
-   Pagine Servizio Combinato Localizzate 
+  <!-- Pagine Servizio Combinato Localizzate -->
   <url>
     <loc>https://dottmaicobattistello.it/ozono-osteo-padova</loc>
     <lastmod>2024-01-15</lastmod>
@@ -221,7 +221,7 @@
     </image:image>
   </url>
 
-   Pagine Medicina Legale Localizzate 
+  <!-- Pagine Medicina Legale Localizzate -->
   <url>
     <loc>https://dottmaicobattistello.it/medicina-legale-padova</loc>
     <lastmod>2024-01-15</lastmod>
@@ -270,7 +270,7 @@
     </image:image>
   </url>
 
-   Altre Pagine 
+  <!-- Altre Pagine -->
   <url>
     <loc>https://dottmaicobattistello.it/contacts</loc>
     <lastmod>2024-01-15</lastmod>
@@ -285,7 +285,7 @@
     <changefreq>weekly</changefreq>
   </url>
 
-   Privacy e Cookie Policy 
+  <!-- Privacy e Cookie Policy -->
   <url>
     <loc>https://dottmaicobattistello.it/privacy-policy</loc>
     <lastmod>2024-01-15</lastmod>
