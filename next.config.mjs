@@ -49,6 +49,35 @@ const nextConfig = {
       }
     ]
   },
+  async rewrites() {
+    return [
+      // Rewrites per le pagine principali - URL italiani che servono contenuto inglese
+      {
+        source: '/ozonoterapia',
+        destination: '/ozone-therapy',
+      },
+      {
+        source: '/osteopatia',
+        destination: '/osteopathy',
+      },
+      {
+        source: '/ozonoterapia-osteopatia',
+        destination: '/ozone-osteopathy',
+      },
+      {
+        source: '/medicina-legale',
+        destination: '/legal-medicine',
+      },
+      {
+        source: '/chi-sono',
+        destination: '/about-me',
+      },
+      {
+        source: '/contatti',
+        destination: '/contacts',
+      },
+    ]
+  },
   async redirects() {
     return [
       // Force HTTPS redirects
@@ -64,30 +93,41 @@ const nextConfig = {
         destination: 'https://dottmaicobattistello.it/:path*',
         permanent: true,
       },
+      // Redirect vecchi URL inglesi agli URL italiani
+      {
+        source: '/ozone-therapy',
+        destination: '/ozonoterapia',
+        permanent: true,
+      },
+      {
+        source: '/osteopathy',
+        destination: '/osteopatia',
+        permanent: true,
+      },
+      {
+        source: '/ozone-osteopathy',
+        destination: '/ozonoterapia-osteopatia',
+        permanent: true,
+      },
+      {
+        source: '/legal-medicine',
+        destination: '/medicina-legale',
+        permanent: true,
+      },
+      {
+        source: '/about-me',
+        destination: '/chi-sono',
+        permanent: true,
+      },
+      {
+        source: '/contacts',
+        destination: '/contatti',
+        permanent: true,
+      },
       // Legacy redirects
       {
         source: '/chisono',
-        destination: '/about-me',
-        permanent: true,
-      },
-      {
-        source: '/chi-sono',
-        destination: '/about-me',
-        permanent: true,
-      },
-      {
-        source: '/ozonoterapia-osteopatia',
-        destination: '/ozone-osteopathy',
-        permanent: true,
-      },
-      {
-        source: '/osteopatia',
-        destination: '/osteopathy',
-        permanent: true,
-      },
-      {
-        source: '/ozonoterapia',
-        destination: '/ozone-therapy',
+        destination: '/chi-sono',
         permanent: true,
       },
       {
@@ -97,7 +137,7 @@ const nextConfig = {
       },
       {
         source: '/medicina-legale-a-padova',
-        destination: '/legal-medicine',
+        destination: '/medicina-legale',
         permanent: true,
       },
     ]
@@ -118,7 +158,6 @@ const nextConfig = {
   poweredByHeader: false,
   compress: true,
   trailingSlash: false,
-  // Enhanced for mobile compatibility
   experimental: {
     scrollRestoration: true,
   },

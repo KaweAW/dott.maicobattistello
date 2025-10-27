@@ -7,15 +7,15 @@ export default function Footer() {
         </div>
         <div>
           <p className="text-sm text-gray-600">
-            <a href="/ozone-therapy" className="footer-link hover:text-blue-500 transition-colors">
+            <a href="/ozonoterapia" className="footer-link hover:text-blue-500 transition-colors">
               Ozonoterapia
             </a>{" "}
             {" | "}
-            <a href="/osteopathy" className="footer-link hover:text-blue-500 transition-colors">
+            <a href="/osteopatia" className="footer-link hover:text-blue-500 transition-colors">
               Osteopatia
             </a>{" "}
             {" | "}
-            <a href="/legal-medicine" className="footer-link hover:text-blue-500 transition-colors">
+            <a href="/medicina-legale" className="footer-link hover:text-blue-500 transition-colors">
               Medicina Legale
             </a>
           </p>

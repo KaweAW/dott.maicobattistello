@@ -3,7 +3,7 @@
   <!-- Pagine Principali -->
   <url>
     <loc>https://dottmaicobattistello.it/</loc>
-    <lastmod>2024-01-15</lastmod>
+    <lastmod>2025-01-27</lastmod>
     <priority>1.0</priority>
     <changefreq>weekly</changefreq>
     <image:image>
@@ -14,8 +14,8 @@
   </url>
   
   <url>
-    <loc>https://dottmaicobattistello.it/about-me</loc>
-    <lastmod>2024-01-15</lastmod>
+    <loc>https://dottmaicobattistello.it/chi-sono</loc>
+    <lastmod>2025-01-27</lastmod>
     <priority>0.9</priority>
     <changefreq>monthly</changefreq>
     <image:image>
@@ -27,8 +27,8 @@
 
   <!-- Servizi Principali -->
   <url>
-    <loc>https://dottmaicobattistello.it/ozone-therapy</loc>
-    <lastmod>2024-01-15</lastmod>
+    <loc>https://dottmaicobattistello.it/ozonoterapia</loc>
+    <lastmod>2025-01-27</lastmod>
     <priority>0.9</priority>
     <changefreq>monthly</changefreq>
     <image:image>
@@ -39,8 +39,8 @@
   </url>
   
   <url>
-    <loc>https://dottmaicobattistello.it/osteopathy</loc>
-    <lastmod>2024-01-15</lastmod>
+    <loc>https://dottmaicobattistello.it/osteopatia</loc>
+    <lastmod>2025-01-27</lastmod>
     <priority>0.9</priority>
     <changefreq>monthly</changefreq>
     <image:image>
@@ -51,8 +51,8 @@
   </url>
   
   <url>
-    <loc>https://dottmaicobattistello.it/ozone-osteopathy</loc>
-    <lastmod>2024-01-15</lastmod>
+    <loc>https://dottmaicobattistello.it/ozonoterapia-osteopatia</loc>
+    <lastmod>2025-01-27</lastmod>
     <priority>0.9</priority>
     <changefreq>monthly</changefreq>
     <image:image>
@@ -63,8 +63,8 @@
   </url>
 
   <url>
-    <loc>https://dottmaicobattistello.it/legal-medicine</loc>
-    <lastmod>2024-01-15</lastmod>
+    <loc>https://dottmaicobattistello.it/medicina-legale</loc>
+    <lastmod>2025-01-27</lastmod>
     <priority>0.9</priority>
     <changefreq>monthly</changefreq>
     <image:image>
@@ -77,7 +77,7 @@
   <!-- Pagine Ozonoterapia Localizzate -->
   <url>
     <loc>https://dottmaicobattistello.it/ozonoterapia-padova</loc>
-    <lastmod>2024-01-15</lastmod>
+    <lastmod>2025-01-27</lastmod>
     <priority>1.0</priority>
     <changefreq>weekly</changefreq>
     <image:image>
@@ -89,7 +89,7 @@
   
   <url>
     <loc>https://dottmaicobattistello.it/ozonoterapia-vicenza</loc>
-    <lastmod>2024-01-15</lastmod>
+    <lastmod>2025-01-27</lastmod>
     <priority>1.0</priority>
     <changefreq>weekly</changefreq>
     <image:image>
@@ -101,7 +101,7 @@
   
   <url>
     <loc>https://dottmaicobattistello.it/ozonoterapia-schio</loc>
-    <lastmod>2024-01-15</lastmod>
+    <lastmod>2025-01-27</lastmod>
     <priority>1.0</priority>
     <changefreq>weekly</changefreq>
     <image:image>
@@ -113,7 +113,7 @@
   
   <url>
     <loc>https://dottmaicobattistello.it/ozonoterapia-malo</loc>
-    <lastmod>2024-01-15</lastmod>
+    <lastmod>2025-01-27</lastmod>
     <priority>1.0</priority>
     <changefreq>weekly</changefreq>
     <image:image>
@@ -126,7 +126,7 @@
   <!-- Pagine Osteopatia Localizzate -->
   <url>
     <loc>https://dottmaicobattistello.it/osteopatia-padova</loc>
-    <lastmod>2024-01-15</lastmod>
+    <lastmod>2025-01-27</lastmod>
     <priority>0.95</priority>
     <changefreq>monthly</changefreq>
     <image:image>
@@ -138,7 +138,7 @@
   
   <url>
     <loc>https://dottmaicobattistello.it/osteopatia-vicenza</loc>
-    <lastmod>2024-01-15</lastmod>
+    <lastmod>2025-01-27</lastmod>
     <priority>0.95</priority>
     <changefreq>monthly</changefreq>
     <image:image>
@@ -150,7 +150,7 @@
   
   <url>
     <loc>https://dottmaicobattistello.it/osteopatia-schio</loc>
-    <lastmod>2024-01-15</lastmod>
+    <lastmod>2025-01-27</lastmod>
     <priority>0.95</priority>
     <changefreq>monthly</changefreq>
     <image:image>
@@ -162,7 +162,7 @@
   
   <url>
     <loc>https://dottmaicobattistello.it/osteopatia-malo</loc>
-    <lastmod>2024-01-15</lastmod>
+    <lastmod>2025-01-27</lastmod>
     <priority>0.95</priority>
     <changefreq>monthly</changefreq>
     <image:image>
@@ -175,7 +175,7 @@
   <!-- Pagine Servizio Combinato Localizzate -->
   <url>
     <loc>https://dottmaicobattistello.it/ozono-osteo-padova</loc>
-    <lastmod>2024-01-15</lastmod>
+    <lastmod>2025-01-27</lastmod>
     <priority>0.95</priority>
     <changefreq>monthly</changefreq>
     <image:image>
@@ -187,7 +187,7 @@
   
   <url>
     <loc>https://dottmaicobattistello.it/ozono-osteo-vicenza</loc>
-    <lastmod>2024-01-15</lastmod>
+    <lastmod>2025-01-27</lastmod>
     <priority>0.95</priority>
     <changefreq>monthly</changefreq>
     <image:image>
@@ -199,7 +199,7 @@
   
   <url>
     <loc>https://dottmaicobattistello.it/ozono-osteo-schio</loc>
-    <lastmod>2024-01-15</lastmod>
+    <lastmod>2025-01-27</lastmod>
     <priority>0.95</priority>
     <changefreq>monthly</changefreq>
     <image:image>
@@ -211,7 +211,7 @@
   
   <url>
     <loc>https://dottmaicobattistello.it/ozono-osteo-malo</loc>
-    <lastmod>2024-01-15</lastmod>
+    <lastmod>2025-01-27</lastmod>
     <priority>0.95</priority>
     <changefreq>monthly</changefreq>
     <image:image>
@@ -224,7 +224,7 @@
   <!-- Pagine Medicina Legale Localizzate -->
   <url>
     <loc>https://dottmaicobattistello.it/medicina-legale-padova</loc>
-    <lastmod>2024-01-15</lastmod>
+    <lastmod>2025-01-27</lastmod>
     <priority>0.95</priority>
     <changefreq>monthly</changefreq>
     <image:image>
@@ -236,7 +236,7 @@
   
   <url>
     <loc>https://dottmaicobattistello.it/medicina-legale-vicenza</loc>
-    <lastmod>2024-01-15</lastmod>
+    <lastmod>2025-01-27</lastmod>
     <priority>0.95</priority>
     <changefreq>monthly</changefreq>
     <image:image>
@@ -248,7 +248,7 @@
   
   <url>
     <loc>https://dottmaicobattistello.it/medicina-legale-schio</loc>
-    <lastmod>2024-01-15</lastmod>
+    <lastmod>2025-01-27</lastmod>
     <priority>0.95</priority>
     <changefreq>monthly</changefreq>
     <image:image>
@@ -260,7 +260,7 @@
   
   <url>
     <loc>https://dottmaicobattistello.it/medicina-legale-malo</loc>
-    <lastmod>2024-01-15</lastmod>
+    <lastmod>2025-01-27</lastmod>
     <priority>0.95</priority>
     <changefreq>monthly</changefreq>
     <image:image>
@@ -272,15 +272,15 @@
 
   <!-- Altre Pagine -->
   <url>
-    <loc>https://dottmaicobattistello.it/contacts</loc>
-    <lastmod>2024-01-15</lastmod>
+    <loc>https://dottmaicobattistello.it/contatti</loc>
+    <lastmod>2025-01-27</lastmod>
     <priority>0.8</priority>
     <changefreq>monthly</changefreq>
   </url>
   
   <url>
     <loc>https://dottmaicobattistello.it/blog</loc>
-    <lastmod>2024-01-15</lastmod>
+    <lastmod>2025-01-27</lastmod>
     <priority>0.7</priority>
     <changefreq>weekly</changefreq>
   </url>
@@ -288,14 +288,14 @@
   <!-- Privacy e Cookie Policy -->
   <url>
     <loc>https://dottmaicobattistello.it/privacy-policy</loc>
-    <lastmod>2024-01-15</lastmod>
+    <lastmod>2025-01-27</lastmod>
     <priority>0.3</priority>
     <changefreq>yearly</changefreq>
   </url>
   
   <url>
     <loc>https://dottmaicobattistello.it/cookie-policy</loc>
-    <lastmod>2024-01-15</lastmod>
+    <lastmod>2025-01-27</lastmod>
     <priority>0.3</priority>
     <changefreq>yearly</changefreq>
   </url>

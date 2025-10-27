@@ -64,7 +64,7 @@ export default function Navbar({ onMenuToggle = () => {} }: NavbarProps) {
         <div
           className="absolute inset-0 bg-gradient-to-r from-blue-500 via-blue-600 to-blue-700 navbar-gradient"
           style={{
-            opacity: isScrolled ? 0.85 : 0.95, // Increased opacity values
+            opacity: isScrolled ? 0.85 : 0.95,
             transition: "opacity 0.3s ease",
           }}
         />
@@ -84,34 +84,34 @@ export default function Navbar({ onMenuToggle = () => {} }: NavbarProps) {
           {/* Desktop Navigation */}
           <nav className="hidden lg:flex items-center space-x-8">
             <div className="relative group">
-              <Link href="/ozone-osteopathy" className="nav-link font-bold">
+              <Link href="/ozonoterapia-osteopatia" className="nav-link font-bold">
                 Ozonoterapia + Osteopatia
               </Link>
               <div className="absolute left-0 mt-2 w-60 bg-white shadow-lg rounded-md overflow-hidden opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-300">
                 <Link
-                  href="/ozone-therapy"
+                  href="/ozonoterapia"
                   className="block px-4 py-2 text-primary hover:bg-primary hover:text-white transition-colors"
                 >
                   Ozonoterapia
                 </Link>
                 <Link
-                  href="/osteopathy"
+                  href="/osteopatia"
                   className="block px-4 py-2 text-primary hover:bg-primary hover:text-white transition-colors"
                 >
                   Osteopatia
                 </Link>
               </div>
             </div>
-            <Link href="/legal-medicine" className="nav-link font-bold">
+            <Link href="/medicina-legale" className="nav-link font-bold">
               Medicina Legale
             </Link>
-            <Link href="/about-me" className="nav-link font-bold">
+            <Link href="/chi-sono" className="nav-link font-bold">
               Chi Sono
             </Link>
             <Link href="/blog" className="nav-link font-bold">
               Blog
             </Link>
-            <Link href="/contacts" className="nav-link font-bold">
+            <Link href="/contatti" className="nav-link font-bold">
               Contatti
             </Link>
           </nav>
@@ -138,7 +138,7 @@ export default function Navbar({ onMenuToggle = () => {} }: NavbarProps) {
         <div
           className="absolute inset-0 bg-gradient-to-r from-blue-500 via-blue-600 to-blue-700 navbar-gradient"
           style={{
-            opacity: 0.95, // Increased from 1 to match the new style
+            opacity: 0.95,
           }}
         />
         <div className="relative z-10 flex justify-between items-center h-20 px-4 border-b border-white/20">
@@ -165,35 +165,35 @@ export default function Navbar({ onMenuToggle = () => {} }: NavbarProps) {
 
         <nav className="relative z-10 flex flex-col p-4 pt-6 space-y-1">
           <Link
-            href="/ozone-osteopathy"
+            href="/ozonoterapia-osteopatia"
             className="py-3 px-2 text-lg font-bold text-white hover:bg-white/10 rounded-md block mobile-nav-link"
             onClick={() => toggleMenu(false)}
           >
             Ozonoterapia + Osteopatia
           </Link>
           <Link
-            href="/ozone-therapy"
+            href="/ozonoterapia"
             className="py-3 px-2 text-lg text-white hover:bg-white/10 rounded-md block mobile-nav-link ml-4"
             onClick={() => toggleMenu(false)}
           >
             Ozonoterapia
           </Link>
           <Link
-            href="/osteopathy"
+            href="/osteopatia"
             className="py-3 px-2 text-lg text-white hover:bg-white/10 rounded-md block mobile-nav-link ml-4"
             onClick={() => toggleMenu(false)}
           >
             Osteopatia
           </Link>
           <Link
-            href="/legal-medicine"
+            href="/medicina-legale"
             className="py-3 px-2 text-lg font-bold text-white hover:bg-white/10 rounded-md block mobile-nav-link"
             onClick={() => toggleMenu(false)}
           >
             Medicina Legale
           </Link>
           <Link
-            href="/about-me"
+            href="/chi-sono"
             className="py-3 px-2 text-lg font-bold text-white hover:bg-white/10 rounded-md block mobile-nav-link"
             onClick={() => toggleMenu(false)}
           >
@@ -207,7 +207,7 @@ export default function Navbar({ onMenuToggle = () => {} }: NavbarProps) {
             Blog
           </Link>
           <Link
-            href="/contacts"
+            href="/contatti"
             className="py-3 px-2 text-lg font-bold text-white hover:bg-white/10 rounded-md block mobile-nav-link"
             onClick={() => toggleMenu(false)}
           >
