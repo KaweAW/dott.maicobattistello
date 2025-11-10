@@ -47,11 +47,18 @@ Ulteriori benefici di questa terapia includono una migliore ossigenazione dei te
 
 Le sue proprietà antinfiammatorie contribuiscono a un recupero fisico e mentale più rapido, riducendo gli effetti dei danni polmonari.
 
-Il metodo di somministrazione è sistemico o **Auto Emoterapia** (GAET), attraverso il sistema venoso. Questa procedura minimamente invasiva dura circa 30-40 minuti, sotto costante supervisione medica/infermieristica.
+Il metodo di somministrazione è sistemico o Auto Emoterapia (GAET), attraverso il sistema venoso. Questa procedura minimamente invasiva dura circa 30-40 minuti, sotto costante supervisione medica/infermieristica.
 
 Il Dr. Maico Battistello, esperto in ozonoterapia, è disponibile per qualsiasi chiarimento riguardo a questo metodo innovativo, che esegue quotidianamente con eccellenti risultati.
 
-***Non esitare a contattarci per maggiori informazioni o per fissare un appuntamento.***`,
+Non esitare a contattarci per maggiori informazioni o per fissare un appuntamento.
+
+---
+
+### Attrezzatura per Ozonoterapia
+
+Questo è un esempio di sottotitolo che dovrebbe essere gestito come un h3.
+`,
   },
   {
     id: 2,
@@ -91,12 +98,125 @@ Migliora anche l'ossigenazione in tessuti e organi come:
 
 Fornendo notevoli benefici terapeutici per i pazienti con Long Covid.
 
-Il trattamento utilizzato è la Grande **Auto Emoterapia** (GAET), con una durata di circa 40 minuti.
+Il trattamento utilizzato è la Grande Auto Emoterapia (GAET), con una durata di circa 40 minuti.
 
 Il Dr. Maico Battistello, con la sua esperienza in questo campo terapeutico, adatterà il piano di trattamento più adatto in base alla gravità e alla durata dei sintomi del paziente.`,
   },
-  // Manteniamo solo i primi due articoli reali e rimuoviamo tutti gli altri placeholder
+  {
+    id: 3,
+    title:
+      "Malanni stagionali e difese naturali: il ruolo dell'ossigeno-ozonoterapia integrata con osteopatia, Grande Autoemoterapia (GAET) e Piccola Autoemoterapia (PAET)",
+    image: "/images/nuovaozono2.jpg",
+    category: "ozone-therapy",
+    publishDate: "11/10/2025",
+    content: `Con l'arrivo dell'autunno aumentano stanchezza, dolori articolari e muscolari, cervicalgie, lombalgie, sinusiti e cali delle difese. L'ossigeno-ozonoterapia, integrata alla manipolazione osteopatica e alle metodiche sistemiche come GAET e PAET, offre un approccio clinico sinergico in grado di ridurre l'infiammazione, migliorare il bilancio redox, sostenere l'immunità e ristabilire la funzione biomeccanica.
+
+---
+
+### I malanni autunnali: cosa succede all'organismo
+
+Il passaggio alla stagione fredda comporta riduzione dell'esposizione solare, maggiore umidità e oscillazioni termiche. Questi fattori si associano a una diminuzione della vitamina D, a un incremento dello stress ossidativo e a un'iper-reattività neurovegetativa. Il risultato clinico è spesso una somma di disturbi: riacutizzazione di artrosi e tendinopatie, dolore miofasciale diffuso, peggioramento di lombalgie e cervicalgie, frequenti infezioni delle vie aeree superiori e senso di fatica prolungata. Molti quadri possono essere riletti come una condizione di infiammazione cronica di basso grado con alterazioni della microcircolazione, della viscosità ematica e del metabolismo mitocondriale.
+
+---
+
+### Ossigeno-ozonoterapia: meccanismi chiave (azione antinfiammatoria e redox)
+
+L'ozono medicale è una miscela di ossigeno e ozono in concentrazione controllata, somministrata in condizioni di sicurezza e con protocolli standardizzati. A basse dosi terapeutiche agisce come un 'eustress' controllato che innesca risposte adattative: up-regolazione degli enzimi antiossidanti (SOD, catalasi, glutatione-perossidasi), riduzione delle specie reattive dell'ossigeno in eccesso, modulazione delle citochine pro-infiammatorie (es. TNF-α, IL-6) e incremento di quelle anti-infiammatorie. A livello microcircolatorio migliora la deformabilità eritrocitaria, l'ossigenazione tissutale e il rilascio di NO endoteliale, con beneficio su dolore ischemico, edema e rigidità. Questi effetti spiegano perché le infiltrazioni locali risultino utili in artrosi, tendinopatie, sindromi miofasciali e dorsalgie ricorrenti.
+
+---
+
+### Integrazione con l'osteopatia: sinergia biomeccanica-neurovegetativa
+
+Le disfunzioni somatiche (rigidità articolari, restrizioni fasciali, ipertono paravertebrale) mantengono il circolo vizioso dolore-spasmo-ischemia. La manipolazione osteopatica mirata ripristina la mobilità segmentaria, migliora il drenaggio venoso e linfatico, riequilibra il tono del sistema nervoso autonomo e riduce gli input nocicettivi periferici. Quando la manipolazione precede o segue l'infiltrazione di ozono, i tessuti risultano più ricettivi: si riduce la pressione intratissutale, aumenta l'irrorazione e l'effetto antalgico tende a stabilizzarsi. Questa logica 'biochimica + biomeccanica' è particolarmente efficace su lombalgie e cervicalgie da overuse, cefalee miotensive, sindromi miofasciali stagionali, dolori artrosi alle ginocchia e alle articolazioni delle anche. L'associazione di trattamenti infiltrativi di ossigeno-ozono con la manipolazione osteopatica trova inoltre indicazione nei processi degenerativi a carico dei tendini della cuffia dei rotatori, nella coxartrosi e nella gonartrosi. In questi quadri, la sinergia tra l'effetto antinfiammatorio e biostimolante dell'ozono e il riequilibrio biomeccanico osteopatico favorisce la riduzione del dolore, il miglioramento dell'articolarità e il rallentamento della progressione degenerativa articolare.
+
+---
+
+### Grande Autoemoterapia (GAET): effetto sistemico su infiammazione, energia e immunità
+
+La GAET prevede il prelievo di una quantità controllata di sangue venoso che viene miscelato con ossigeno-ozono e reinfuso endovena. L'esposizione controllata all'ozono attiva vie di segnalazione Nrf2-Keap1 con aumento della sintesi di glutatione e normalizzazione del bilancio redox; parallelamente si osserva una tendenza alla riduzione delle citochine pro-infiammatorie e un miglioramento dell'efficienza mitocondriale (maggior disponibilità di ATP e migliore ossigenazione tissutale). Sul piano clinico, ciò si traduce in calo della fatica, maggiore resilienza agli stress stagionali e riduzione delle riacutizzazioni dolorose diffuse.
+
+Numerose evidenze suggeriscono inoltre che la GAET possa contribuire al riequilibrio immunitario nei soggetti affetti da patologie autoimmunitarie. Il suo effetto di modulazione del sistema redox e dell'espressione citochinica aiuta a contenere i processi infiammatori autoindotti e a migliorare la risposta sistemica, offrendo un supporto complementare in quadri come artrite reumatoide, stanchezza cronica e fibromialgia.
+
+Indicazioni tipiche in stagione: astenia prolungata post-infettiva, riacutizzazioni di dolore cronico disfunzionale, recupero lento dopo periodi di stress o infezioni respiratorie ricorrenti, supporto nei pazienti con comorbidità che necessitano di un 'reset' del sistema ossido-riduttivo.
+
+---
+
+### Piccola Autoemoterapia (PAET): modulazione immunitaria 'dolce'
+
+La PAET utilizza piccole quantità di sangue ozonizzato re-iniettate per via intramuscolare. L'obiettivo è uno stimolo immunitario graduale e una regolazione del microambiente citochinico e redox. In ottica stagionale può aiutare i soggetti con infezioni ricorrenti delle vie aeree superiori, convalescenze prolungate e profili di iper-reattività infiammatoria. La PAET è spesso combinata con cicli brevi di GAET per massimizzare l'effetto sistemico mantenendo un'ottima tollerabilità.
+
+---
+
+### Protocollo integrato: infiltrazioni mirate + osteopatia + GAET/PAET
+
+Un percorso integrato tipico in autunno può prevedere: Valutazione clinico-funzionale completa; sedute di osteopatia per liberare i distretti più rigidi (cervico-dorso-lombare, cingoli); infiltrazioni di ossigeno-ozonoterapia su punti trigger, articolazioni o piani paravertebrali; GAET per il riequilibrio sistemico del bilancio redox e dell'assetto citochinico; PAET per rinforzare lo stimolo immunitario. Il numero e la frequenza delle sedute dipendono da età, comorbidità, intensità del dolore e obiettivi funzionali (ritorno al lavoro/sport).
+
+---
+
+### Personalizzazione clinica: sportivi, anziani, pazienti cronici
+
+Sportivi: focus su recupero muscolare e prevenzione delle recidive; infiltrazioni a basso volume su strutture sovraccariche, osteopatia per normalizzare catene miofasciali, migliorando l'elasticità e la funzionalità articolare.
+
+Anziani: priorità a microcircolazione, mobilità articolare e riduzione dell'uso di analgesici; sedute più ravvicinate ma di intensità prudente; PAET come stimolo immunitario tollerabile.
+
+Pazienti cronici: obiettivo riduzione del 'rumore infiammatorio' sistemico; GAET ciclica, infiltrazioni conservative e manipolazione dolce, monitorando marker clinici (dolore, funzione, sonno, tolleranza allo sforzo).
+
+---
+
+### Sicurezza e controindicazioni
+
+Somministrata da personale medico formato, l'ossigeno-ozonoterapia presenta un profilo di sicurezza favorevole. Le reazioni locali (fastidio, tensione, modesto ematoma) sono generalmente transitorie. GAET/PAET richiedono protocolli e materiali certificati e il rispetto di controindicazioni relative (deficit G6PD, ipertiroidismo non controllato, gravidanza, episodi convulsivi non stabilizzati, intolleranze specifiche). La valutazione anamnestica e la scelta del dosaggio sono centrali per mantenere un'elevato rapporto beneficio/rischio.
+
+---
+
+### Conclusioni: perché puntare su un approccio integrato in autunno
+
+Nei mesi autunnali il carico infiammatorio e lo stress ossidativo tendono a crescere, con ricadute su dolore, mobilità e immunità. L'integrazione di ossigeno-ozonoterapia infiltrativa con osteopatia, associata a GAET e PAET quando indicato, permette di agire su più livelli: biochimico, microcircolatorio e biomeccanico. Il risultato è una maggiore resilienza stagionale, una riduzione dei sintomi e un recupero funzionale più stabile. La personalizzazione del protocollo, basata su quadro clinico e obiettivi del paziente, è la chiave per ottenere benefici duraturi con un'elevata tollerabilità.
+
+---
+
+### BIBLIOGRAFIA ESSENZIALE
+
+Selezionare di seguito per leggere le fonti peer-reviewed:`,
+  },
 ]
+
+type BibliographyDropdownProps = {}
+
+const BibliographyDropdown: React.FC<BibliographyDropdownProps> = () => {
+  const [isOpen, setIsOpen] = useState(false)
+
+  const bibliographyItems = [
+    "Bocci V, Zanardi I, Travagli V. 'Ozone acting on human blood yields a hormetic dose-response relationship.' Medical Gas Research.",
+    "Re L, Malcangi G, Martinez-Sanchez G. 'Ozone therapy: A clinical overview and mechanisms.' Evidence-Based Complementary and Alternative Medicine.",
+    "Smith NL, Wilson AL, Gandhi J, Vatsia S, Khan SA. 'Ozone therapy: An overview of pharmacodynamics, current research, and therapeutic potential.' Medical Gas Research.",
+    "Elvis AM, Ekta JS. 'Ozone therapy: A clinical review.' Journal of Natural Science, Biology and Medicine.",
+    "Borrelli E, et al. 'Mechanisms of action of ozone therapy in medical practice.' International Journal of Ozone Therapy.",
+  ]
+
+  return (
+    <div className="bibliography-dropdown-container">
+      <button
+        onClick={() => setIsOpen(!isOpen)}
+        className="w-full flex items-center justify-between p-4 bg-blue-50 border-2 border-blue-200 rounded-lg hover:bg-blue-100 transition-colors"
+      >
+        <span className="font-semibold text-blue-900">📚 Riferimenti Bibliografici</span>
+        <ChevronDown className={`h-5 w-5 transition-transform text-blue-600 ${isOpen ? "rotate-180" : ""}`} />
+      </button>
+
+      {isOpen && (
+        <div className="mt-2 p-4 bg-gray-50 border border-gray-200 rounded-lg space-y-3">
+          {bibliographyItems.map((item, index) => (
+            <div key={index} className="flex gap-3 text-sm">
+              <span className="font-semibold text-blue-600 flex-shrink-0">{index + 1}.</span>
+              <p className="text-gray-700 leading-relaxed">{item}</p>
+            </div>
+          ))}
+        </div>
+      )}
+    </div>
+  )
+}
 
 export default function BlogPage() {
   const [searchTerm, setSearchTerm] = useState("")
@@ -192,6 +312,127 @@ export default function BlogPage() {
       default:
         return "Tutti"
     }
+  }
+
+  const renderArticleContent = () => {
+    return activeArticle.content.split("\n\n").map((paragraph, index) => {
+      if (!paragraph.trim()) return null
+
+      if (paragraph.startsWith("### ")) {
+        const title = paragraph.replace("### ", "").trim()
+        return (
+          <h3 key={index} className="text-xl font-bold text-primary mt-6 mb-4 border-b-2 border-primary pb-2">
+            {title}
+          </h3>
+        )
+      }
+
+      if (paragraph.trim() === "---") {
+        return <div key={index} className="my-8 border-t border-gray-300"></div>
+      }
+
+      if (
+        paragraph.includes("Ozonoterapia") ||
+        paragraph.includes("Osteopatia") ||
+        paragraph.includes("ossigeno-ozonoterapia")
+      ) {
+        const parts = paragraph.split(/(Ozonoterapia|Osteopatia|ossigeno-ozonoterapia)/gi).map((part, i) => {
+          if (part?.toLowerCase() === "ossigeno-ozonoterapia") {
+            return (
+              <AnimatedLink key={i} href="/ozonoterapia">
+                {part}
+              </AnimatedLink>
+            )
+          }
+          if (part?.toLowerCase() === "osteopatia") {
+            return (
+              <AnimatedLink key={i} href="/osteopatia">
+                {part}
+              </AnimatedLink>
+            )
+          }
+          if (part?.toLowerCase() === "ossigeno-ozonoterapia") {
+            return (
+              <AnimatedLink key={i} href="/ozonoterapia">
+                {part}
+              </AnimatedLink>
+            )
+          }
+          return part
+        })
+
+        return (
+          <p key={index} className="text-lg leading-relaxed mb-4">
+            {parts.map((part, i) => {
+              if (typeof part !== "string") return part
+
+              const boldItalicParts = part.split(/(\*\*\*.*?\*\*\*|\*\*.*?\*\*)/g)
+              return boldItalicParts.map((subpart, j) => {
+                if (subpart?.startsWith("***") && subpart?.endsWith("***")) {
+                  return (
+                    <em key={j} className="italic font-semibold text-primary">
+                      {subpart.slice(3, -3)}
+                    </em>
+                  )
+                }
+                if (subpart?.startsWith("**") && subpart?.endsWith("**")) {
+                  return (
+                    <strong key={j} className="font-bold text-primary">
+                      {subpart.slice(2, -2)}
+                    </strong>
+                  )
+                }
+                return subpart
+              })
+            })}
+          </p>
+        )
+      }
+
+      // Handle bold text
+      if (paragraph.includes("**")) {
+        const parts = paragraph.split(/(\*\*.*?\*\*)/g)
+        return (
+          <p key={index} className="text-lg leading-relaxed mb-4">
+            {parts.map((part, i) => {
+              if (part?.startsWith("**") && part?.endsWith("**")) {
+                return (
+                  <strong key={i} className="font-bold text-primary">
+                    {part.slice(2, -2)}
+                  </strong>
+                )
+              }
+              return part
+            })}
+          </p>
+        )
+      }
+
+      // Handle italic text
+      if (paragraph.includes("***")) {
+        const parts = paragraph.split(/(\*\*\*.*?\*\*\*)/g)
+        return (
+          <p key={index} className="text-lg leading-relaxed mb-4">
+            {parts.map((part, i) =>
+              part?.startsWith("***") && part?.endsWith("***") ? (
+                <em key={i} className="italic font-semibold text-primary">
+                  {part.slice(3, -3)}
+                </em>
+              ) : (
+                part
+              ),
+            )}
+          </p>
+        )
+      }
+
+      // Regular paragraph
+      return (
+        <p key={index} className="text-lg leading-relaxed mb-4">
+          {paragraph}
+        </p>
+      )
+    })
   }
 
   return (
@@ -337,87 +578,7 @@ export default function BlogPage() {
                 </div>
 
                 {/* Article Content */}
-                <div className="prose max-w-none article-content">
-                  {activeArticle.content.split("\n\n").map((paragraph, index) => {
-                    // Check if paragraph is a heading or subtitle
-                    if (
-                      paragraph === "I Benefici dell'Ozonoterapia" ||
-                      paragraph === "Cos'è esattamente l'influenza?"
-                    ) {
-                      return (
-                        <h2 key={index} className="article-subtitle">
-                          {paragraph}
-                        </h2>
-                      )
-                    }
-
-                    // Check if paragraph contains Ozone Therapy or Oxygen-Ozone Therapy text to wrap in AnimatedLink
-                    if (paragraph.includes("Ozonoterapia") || paragraph.includes("Ossigeno-Ozonoterapia")) {
-                      const parts = paragraph.split(/(Ozonoterapia|Ossigeno-Ozonoterapia)/g).map((part, i) => {
-                        if (part === "Ozonoterapia" || part === "Ossigeno-Ozonoterapia") {
-                          return (
-                            <AnimatedLink key={i} href="/ozone-therapy">
-                              {part}
-                            </AnimatedLink>
-                          )
-                        }
-                        return part
-                      })
-                      return (
-                        <p key={index} className="text-lg">
-                          {parts}
-                        </p>
-                      )
-                    }
-
-                    // Handle bold text
-                    if (paragraph.includes("**")) {
-                      const parts = paragraph.split(/\*\*(.*?)\*\*/g)
-                      return (
-                        <p key={index} className="text-lg">
-                          {parts.map((part, i) => (i % 2 === 1 ? <strong key={i}>{part}</strong> : part))}
-                        </p>
-                      )
-                    }
-
-                    // Handle italic text
-                    if (paragraph.includes("***")) {
-                      const parts = paragraph.split(/\*\*\*(.*?)\*\*\*/g)
-                      return (
-                        <p key={index} className="text-lg">
-                          {parts.map((part, i) =>
-                            i % 2 === 1 ? (
-                              <em key={i} className="font-bold">
-                                {part}
-                              </em>
-                            ) : (
-                              part
-                            ),
-                          )}
-                        </p>
-                      )
-                    }
-
-                    // Regular paragraph
-                    return (
-                      <p key={index} className="text-lg">
-                        {paragraph}
-                      </p>
-                    )
-                  })}
-
-                  {/* Insert articolo1pic.jpg after "The Benefits of Ozone Therapy" section */}
-                  {activeArticle.id === 1 && (
-                    <div className="article-image-container">
-                      <Image
-                        src="/images/design-mode/articolo1pic.jpg.jpeg"
-                        alt="Attrezzatura per Ozonoterapia"
-                        fill
-                        className="object-cover"
-                      />
-                    </div>
-                  )}
-                </div>
+                <div className="prose max-w-none article-content">{renderArticleContent()}</div>
 
                 {/* Book Appointment Button with hover-lift animation */}
                 <div className="mt-8 text-center">
@@ -427,6 +588,11 @@ export default function BlogPage() {
                       <span>Prenota un Appuntamento</span>
                     </Link>
                   </Button>
+                </div>
+
+                {/* Bibliography Dropdown */}
+                <div className="mt-8 mb-8">
+                  <BibliographyDropdown />
                 </div>
 
                 {/* Related Articles Section */}
@@ -447,13 +613,14 @@ export default function BlogPage() {
                               onClick={(e) => handleArticleClick(article, e)}
                               className="cursor-pointer group"
                             >
-                              <div className="bg-white rounded-lg shadow-md hover:shadow-lg transition-shadow">
+                              <div className="bg-white rounded-lg shadow-md hover:shadow-lg transition-shadow w-full">
                                 <div className="relative h-48 overflow-hidden rounded-t-lg">
                                   <Image
                                     src={article.image || "/placeholder.svg"}
                                     alt={article.title}
                                     fill
                                     className="object-cover transform transition-transform group-hover:scale-105"
+                                    sizes="(max-width: 640px) 100vw, (max-width: 768px) 50vw, 33vw"
                                   />
                                 </div>
                                 <div className="p-4">

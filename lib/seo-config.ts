@@ -102,6 +102,26 @@ export const cities: CityConfig[] = [
     population: 14000,
     description: "Comune dell'Alto Vicentino, centro di eccellenza per l'industria e l'artigianato",
   },
+  {
+    name: "Marostica",
+    slug: "marostica",
+    province: "VI",
+    coordinates: { lat: 45.7887, lng: 11.6142 },
+    nearbyTowns: [
+      "Bassano del Grappa",
+      "Thiene",
+      "Schio",
+      "Malo",
+      "Valdagno",
+      "Breganze",
+      "Piovene Rocchette",
+      "Villaverla",
+      "Carrè",
+      "Zugliano",
+    ],
+    population: 13000,
+    description: "Comune dell'Alto Vicentino, famosa per la Partita a Scacchi e il Castello",
+  },
 ]
 
 export const services: ServiceConfig[] = [

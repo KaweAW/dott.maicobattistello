@@ -36,14 +36,6 @@ export default function MedicinaLegaleVicenzaPage() {
         <div className="prose max-w-none">
           <h1 className="text-3xl font-bold mb-6">{seoData.h1}</h1>
 
-          <div className="bg-blue-50 border-l-4 border-blue-500 p-6 mb-8">
-            <p className="text-lg font-semibold mb-2">📍 Consulenze Medico-Legali a {city.name}</p>
-            <p className="text-base">
-              Il Dr. Maico Battistello offre consulenze specialistiche anche per pazienti provenienti da{" "}
-              {city.nearbyTowns.slice(0, 3).join(", ")} e comuni limitrofi.
-            </p>
-          </div>
-
           <h2 className="text-2xl font-semibold mb-6">{seoData.h2}</h2>
 
           <p className="text-lg mb-6">{service.longDescription}</p>

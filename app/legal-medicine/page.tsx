@@ -60,13 +60,16 @@ export default function LegalMedicinePage() {
 
           <div className="bg-blue-50 border-l-4 border-blue-500 p-6 my-8">
             <h3 className="text-xl font-semibold mb-3">📍 Consulenze Medicina Legale nelle principali città</h3>
-            <p className="mb-4">Il Dr. Maico Battistello offre consulenze medico-legali anche presso:</p>
+            <p className="mb-4">Il Dr. Maico Battistello offre consulenze medico-legali presso:</p>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-3">
               <Link href="/medicina-legale-padova" className="text-blue-600 hover:text-blue-800 underline font-medium">
                 → Medicina Legale a Padova
               </Link>
-              <Link href="/medicina-legale-vicenza" className="text-blue-600 hover:text-blue-800 underline font-medium">
-                → Medicina Legale a Vicenza
+              <Link
+                href="/medicina-legale-marostica"
+                className="text-blue-600 hover:text-blue-800 underline font-medium"
+              >
+                → Medicina Legale a Marostica
               </Link>
               <Link href="/medicina-legale-schio" className="text-blue-600 hover:text-blue-800 underline font-medium">
                 → Medicina Legale a Schio

@@ -2,7 +2,7 @@ import Link from "next/link"
 import Breadcrumb from "@/components/breadcrumb"
 import { cities, services, generateLocalSEO } from "@/lib/seo-config"
 
-const city = cities.find((c) => c.slug === "malo")!
+const city = cities.find((c) => c.slug === "marostica")!
 const service = services.find((s) => s.slug === "medicina-legale")!
 const seoData = generateLocalSEO(service, city)
 
@@ -14,7 +14,7 @@ export const metadata = {
   },
 }
 
-export default function MedicinaLegaleMaloPage() {
+export default function MedicinaLegalemarosticaPage() {
   return (
     <div className="pt-20">
       <script
