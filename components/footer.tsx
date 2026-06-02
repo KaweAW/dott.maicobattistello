@@ -27,6 +27,15 @@ export default function Footer() {
           {" | "}
           <a href="/cookie-policy" className="footer-link hover:text-blue-500 transition-colors">
             Cookie Policy
+</a>            
+          {" | "}
+<a
+  href="https://www.facebook.com/maicobattistello"
+  className="footer-link hover:text-blue-500 transition-colors"
+  target="_blank"
+  rel="noopener noreferrer"
+>
+  Facebook
           </a>
         </div>
       </div>
