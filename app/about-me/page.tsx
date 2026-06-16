@@ -100,8 +100,8 @@ Nel 2019 ha inoltre conseguito la certificazione in Pet Therapy, qualificandosi 
 La sua attività professionale è orientata alla valutazione medico-legale e all'integrazione di osteopatia e ossigeno-ozonoterapia, attraverso protocolli clinici consolidati e un approccio multidisciplinare orientato alla persona, con particolare attenzione ai disturbi muscolo-scheletrici, al dolore cronico e ai percorsi terapeutici personalizzati.</p>
 <p className="text-lg">
 Segue protocolli clinici riconosciuti da SIOOT (Società Italiana di Ossigeno-Ozonoterapia) e Nuova FIO (Nuova Federazione Italiana di Ossigeno-Ozono), società scientifiche di riferimento nel campo dell'ossigeno-ozonoterapia.
-
-                </p>
+</p>
+                
               </div>
             </div>
           </div>
