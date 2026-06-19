@@ -42,12 +42,12 @@ export default function OsteopatiaPadovaPage() {
 
           <h2 className="text-2xl font-semibold mb-6">{seoData.h2}</h2>
 
-        <p className="text-lg mb-6">
-  L’Osteopatia è una disciplina manuale che considera la persona nella sua globalità, valutando le relazioni tra apparato muscolo-scheletrico, postura e funzionalità del movimento.
+       <p className="text-lg mb-6">
+  L’<strong>Osteopatia</strong> è una disciplina manuale che considera la persona nella sua globalità, valutando le relazioni tra apparato muscolo-scheletrico, postura e funzionalità del movimento.
 
-  A <strong>Padova</strong>, il Dr. Maico Battistello offre trattamenti osteopatici personalizzati rivolti a persone che presentano dolori muscolo-scheletrici, limitazioni funzionali o disturbi correlati alla postura e alla mobilità articolare.
+  A <strong>Padova</strong>, il Dr. Maico Battistello offre <strong>trattamenti osteopatici personalizzati</strong> rivolti a persone che presentano dolori muscolo-scheletrici, limitazioni funzionali o disturbi correlati alla postura e alla mobilità articolare.
 
-  Ogni percorso viene adattato alle esigenze del singolo paziente attraverso una valutazione individuale, con l’obiettivo di favorire il recupero della funzionalità, dell’equilibrio corporeo e del benessere generale.
+  Ogni percorso viene adattato alle esigenze del singolo paziente attraverso una valutazione individuale, con l’obiettivo di favorire il recupero della <strong>funzionalità</strong>, dell’<strong>equilibrio corporeo</strong> e del benessere generale della persona.
 </p>
         </div>
       </div>
