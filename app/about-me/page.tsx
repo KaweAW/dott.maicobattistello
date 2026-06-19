@@ -88,7 +88,7 @@ export default function AboutMePage() {
               </h3>
 
               <div className="space-y-4">
-                <p className="text-lg" itemProp="description">
+               <div itemProp="description">
 <p className="text-lg mt-4">
 Riceve presso le sedi di Marostica, Monte di Malo, Schio e Padova, occupandosi di Medicina Legale, Osteopatia e Ossigeno-Ozonoterapia.
 </p>
