@@ -43,16 +43,12 @@ export default function OsteopatiaPadovaPage() {
           <h2 className="text-2xl font-semibold mb-6">{seoData.h2}</h2>
 
           <p className="text-lg mb-6">
-            L'Osteopatia è una terapia sanitaria manuale che si avvicina alla persona malata nella sua totalità, cioè in
-            <strong> maniera olistica</strong>. L'Osteopata esamina le <strong>strutture del corpo</strong> (colonna
-            vertebrale, articolazioni, fasce muscolari, proiezioni viscerali e ossa craniche), cercando le principali
-            aree di squilibrio posturale/articolare, tensione muscolo-legamentosa/fasciale, e con{" "}
-            <strong>tecniche manipolative attente</strong>, adatte alle esigenze specifiche di ogni individuo,
-            dall'anziano, al bambino, alla donna in gravidanza, ripristina queste aree, recuperando il corretto
-            equilibrio posturale, l'equilibrio funzionale e il benessere fisico. A <strong>Padova</strong>, il Dr. Maico
-            Battistello pratica presso la Clinica Cittàgiardino e la Clinica Medicina Amica, offrendo trattamenti
-            osteopatici personalizzati e di alta qualità.
-          </p>
+  L’Osteopatia è una disciplina manuale che considera la persona nella sua globalità, con l’obiettivo di individuare e trattare le alterazioni funzionali che possono contribuire a dolore, rigidità e limitazioni del movimento.
+
+  A <strong>Malo</strong>, il Dr. Maico Battistello svolge trattamenti osteopatici rivolti ad adulti, anziani, sportivi e donne in gravidanza, attraverso una valutazione personalizzata della postura, della mobilità articolare e delle tensioni muscolo-fasciali.
+
+  Il trattamento osteopatico può essere utile in presenza di lombalgia, cervicalgia, dolori articolari, disturbi posturali e problematiche muscolo-scheletriche, sempre nell’ambito di un percorso individualizzato orientato al recupero della funzionalità e del benessere della persona.
+</p>
         </div>
       </div>
 
