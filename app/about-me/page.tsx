@@ -103,7 +103,7 @@ export default function AboutMePage() {
 </p>
 
 <p className="text-lg mt-4">
-  Riceve presso le sedi di Marostica, Monte di Malo, Schio e Padova, occupandosi di Medicina Legale, Osteopatia e Ossigeno-Ozonoterapia.
+  È disponibile per visite e consulenze nelle sedi di Marostica, Monte di Malo, Schio e Padova.
 </p>
 </div>
            
