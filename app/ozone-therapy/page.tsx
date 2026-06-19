@@ -239,7 +239,7 @@ export default function OzoneTherapyPage() {
     <li>Benessere post-ospedalizzazione/recupero</li>
   </ul>
 
-<p className="text-base text-gray-600 mt-8 leading-relaxed">
+<p className="text-lg text-gray-600 mt-8 leading-relaxed">
     Le indicazioni vengono valutate caso per caso. L'ossigeno-ozonoterapia non sostituisce le terapie mediche convenzionali, ma può integrarsi in un percorso clinico appropriato.
   </p>
 </div>
@@ -256,7 +256,7 @@ export default function OzoneTherapyPage() {
                 </p>
 
                 <p className="text-lg mt-4">Le controindicazioni sono limitate alla GAET per le seguenti condizioni:</p>
-                <ul className="list-disc pl-6">
+               <ul className="list-disc pl-6 text-lg">
                   <li>Favismo</li>
                   <li>Ipertiroidismo grave</li>
                   <li>Allergie al citrato e agli anticoagulanti</li>
@@ -269,7 +269,7 @@ export default function OzoneTherapyPage() {
                   Tutti i trattamenti con ozono vengono eseguiti utilizzando apparecchiature certificate, aderendo alle
                   linee guida sviluppate dalle principali società scientifiche nazionali e internazionali, come:
                 </p>
-                <ul className="list-disc pl-6">
+               <ul className="list-disc pl-6 text-lg">
                   <li>SIOOT (Società Scientifica Internazionale di Ossigeno-Ozonoterapia)</li>
                   <li>Nuova FIO (Federazione Italiana di Ossigeno-Ozonoterapia)</li>
                   <li>ISCO3 (Comitato Scientifico Internazionale di Ozonoterapia)</li>
