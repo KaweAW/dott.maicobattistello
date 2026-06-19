@@ -103,10 +103,10 @@ export default function AboutMePage() {
   <p className="text-lg">
     La sua attività professionale è orientata alla presa in carico globale della persona, con particolare attenzione ai disturbi muscolo-scheletrici, al dolore cronico e alla costruzione di percorsi terapeutici personalizzati. Nell'ambito dell'Ossigeno-Ozonoterapia segue le linee guida e le buone pratiche riconosciute dalla Nuova FIO e dalla SIOOT.
   </p>
-</p>
-</div>
-</div>
-</div>
+           
+        </div>
+            </div>
+                </div>
 
 <div className="my-12">
           <div className="my-12">
