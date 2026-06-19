@@ -201,25 +201,26 @@ export default function OzoneTherapyPage() {
         <div className="prose prose-lg max-w-none leading-relaxed">
 <p className="text-xl">
    L&apos;ossigeno-ozonoterapia può essere utilizzata come supporto in diversi quadri clinici, sempre dopo una valutazione medica e all&apos;interno di un percorso personalizzato.
-
+</p>
 <h4 className="font-bold text-2xl mt-8">Dolore e colonna vertebrale</h4>
-  <ul className="list-disc pl-6 text-lg">
-    <li><strong>Ernie discali</strong></li>
-    <li><strong>Protrusioni discali</strong></li>
-    <li>Discopatie</li>
-    <li>Sindrome faccettale</li>
-    <li>Lombalgia e dolore muscolo-scheletrico</li>
-  </ul>
 
+<ul className="list-disc pl-6 text-lg">
+  <li><strong>Ernie discali</strong></li>
+  <li><strong>Protrusioni discali</strong></li>
+  <li>Discopatie</li>
+  <li>Sindrome faccettale</li>
+  <li>Lombalgia e dolore muscolo-scheletrico</li>
+</ul>
 <h4 className="font-bold text-2xl mt-8">Articolazioni e infiammazione</h4>
-  <ul className="list-disc pl-6 text-lg">
-    <li><strong>Artrosi</strong></li>
-    <li>Gonartrosi</li>
-    <li>Patologie ortopediche</li>
-    <li>Artrite reumatoide e artrite psoriasica</li>
-    <li>Tendinopatie e condizioni infiammatorie</li>
-  </ul>
 
+<ul className="list-disc pl-6 text-lg">
+  <li><strong>Artrosi</strong></li>
+  <li>Gonartrosi</li>
+  <li>Patologie ortopediche</li>
+  <li>Artrite reumatoide e artrite psoriasica</li>
+  <li>Tendinopatie e condizioni infiammatorie</li>
+</ul>
+  
 
 <h4 className="font-bold text-2xl mt-8">Cute e circolazione</h4>
   <ul className="list-disc pl-6 text-lg">
