@@ -89,15 +89,13 @@ export default function AboutMePage() {
 
               <div className="space-y-4">
                 <p className="text-lg" itemProp="description">
-Laureato in Medicina e Chirurgia presso l'Università di Padova nel 1999 e specializzato in Medicina Legale presso l'Università di Parma nel 2004. Ha conseguito il diploma in Osteopatia presso l'Istituto Europeo per la Medicina Osteopatica (EIOM) di Padova nel 2005 ed esercita come Ozonoterapeuta dal 2017.
+Laureato in Medicina e Chirurgia presso l'Università di Padova nel 1999 e specializzato in Medicina Legale presso l'Università di Parma nel 2004. Ha conseguito il diploma in Osteopatia presso l'Istituto Europeo per la Medicina Osteopatica (EIOM) di Padova nel 2005 ed esercita come ozonoterapeuta dal 2017.
 
-Nel corso della sua attività professionale ha integrato competenze in Medicina Legale, Osteopatia e Ozonoterapia, sviluppando un approccio orientato alla persona e alla gestione multidisciplinare dei disturbi muscolo-scheletrici e del dolore.
+Riceve presso le sedi di Marostica, Monte di Malo, Schio e Padova, occupandosi di Medicina Legale, Osteopatia e Ossigeno-Ozonoterapia.
 
-Riceve presso le sedi di Marostica, Monte di Malo, Schio e Padova, occupandosi di valutazioni medico-legali, osteopatia e ossigeno-ozonoterapia.
+Nel 2019 ha conseguito la certificazione in Pet Therapy, qualificandosi come Project Manager, Coordinatore di Intervento e Conduttore di Cani.
 
-Nel 2019 ha inoltre conseguito la certificazione in Pet Therapy, qualificandosi come Project Manager, Coordinatore di Intervento e Conduttore di Cani.
-               <p className="text-lg">
-La sua attività professionale è orientata alla valutazione medico-legale e all'integrazione di osteopatia e ossigeno-ozonoterapia, attraverso un approccio multidisciplinare orientato alla persona, con particolare attenzione ai disturbi muscolo-scheletrici, al dolore cronico e ai percorsi terapeutici personalizzati. Nell'ambito dell'ossigeno-ozonoterapia segue le linee guida e le buone pratiche riconosciute, con riferimento alla Nuova FIO e alla SIOOT.
+La sua attività professionale è orientata alla presa in carico globale della persona, con particolare attenzione ai disturbi muscolo-scheletrici, al dolore cronico e alla costruzione di percorsi terapeutici personalizzati. Nell'ambito dell'Ossigeno-Ozonoterapia segue protocolli clinici e linee guida riconosciuti dalla Nuova FIO e dalla SIOOT.
                 
               </div>
             </div>
