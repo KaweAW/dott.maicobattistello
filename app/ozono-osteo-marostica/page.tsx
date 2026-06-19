@@ -9,9 +9,9 @@ import AnimatedLink from "@/components/animated-link";
 import QuadrantCarousel from "@/components/quadrant-carousel";
 import { cities, services, generateLocalSEO } from "@/lib/seo-config";
 
-const city = cities.find((c) => c.slug === "marostica")!;
-const service = services.find((s) => s.slug === "ozono-osteo")!;
-const seoData = generateLocalSEO(service, city);
+const city = cities.find((c) => c.slug === "marostica")!
+const service = services.find((s) => s.slug === "ozono-osteo")!
+const seoData = generateLocalSEO(service, city)
 
 export const metadata: Metadata = {
   title: seoData.title,
