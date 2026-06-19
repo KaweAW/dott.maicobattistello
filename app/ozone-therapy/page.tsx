@@ -198,55 +198,45 @@ export default function OzoneTherapyPage() {
           <AccordionItem value="clinical-therapeutic-indications">
             <AccordionTrigger className="text-2xl font-bold py-5">Indicazioni Clinico-Terapeutiche</AccordionTrigger>
             <AccordionContent>
-         <div className="prose prose-lg max-w-none leading-relaxed">
+        <div className="prose prose-lg max-w-none leading-relaxed">
   <p className="text-lg">
-   L&apos;ossigeno-ozonoterapia può essere utilizzata come supporto in diversi quadri clinici, sempre dopo una valutazione medica e all&apos;interno di un percorso personalizzato.
+    L&apos;ossigeno-ozonoterapia può essere utilizzata come supporto in diversi quadri clinici, sempre dopo una valutazione medica e all&apos;interno di un percorso personalizzato.
   </p>
 
-  <div className="grid md:grid-cols-2 gap-6 mt-6">
-    <div className="border rounded-xl p-5 bg-gray-50">
-      <h4 className="font-bold text-xl mb-3">Dolore e colonna vertebrale</h4>
-      <ul className="list-disc pl-6">
-        <li><strong>Ernie discali</strong></li>
-        <li><strong>Protrusioni discali</strong></li>
-        <li>Discopatie</li>
-        <li>Sindrome faccettale</li>
-        <li>Lombalgia e dolore muscolo-scheletrico</li>
-      </ul>
-    </div>
+  <h4 className="font-bold text-xl mt-6">Dolore e colonna vertebrale</h4>
+  <ul className="list-disc pl-6">
+    <li><strong>Ernie discali</strong></li>
+    <li><strong>Protrusioni discali</strong></li>
+    <li>Discopatie</li>
+    <li>Sindrome faccettale</li>
+    <li>Lombalgia e dolore muscolo-scheletrico</li>
+  </ul>
 
-    <div className="border rounded-xl p-5 bg-gray-50">
-      <h4 className="font-bold text-xl mb-3">Articolazioni e infiammazione</h4>
-      <ul className="list-disc pl-6">
-        <li><strong>Artrosi</strong></li>
-        <li>Gonartrosi</li>
-        <li>Patologie ortopediche</li>
-        <li>Artrite reumatoide e artrite psoriasica</li>
-        <li>Tendinopatie e condizioni infiammatorie</li>
-      </ul>
-    </div>
+  <h4 className="font-bold text-xl mt-6">Articolazioni e infiammazione</h4>
+  <ul className="list-disc pl-6">
+    <li><strong>Artrosi</strong></li>
+    <li>Gonartrosi</li>
+    <li>Patologie ortopediche</li>
+    <li>Artrite reumatoide e artrite psoriasica</li>
+    <li>Tendinopatie e condizioni infiammatorie</li>
+  </ul>
 
-    <div className="border rounded-xl p-5 bg-gray-50">
-      <h4 className="font-bold text-xl mb-3">Cute e circolazione</h4>
-      <ul className="list-disc pl-6">
-        <li>Piede diabetico</li>
-        <li>Ulcere cutanee e ustioni</li>
-        <li>Problemi circolatori</li>
-        <li>Lesioni cutanee di difficile guarigione</li>
-      </ul>
-    </div>
+  <h4 className="font-bold text-xl mt-6">Cute e circolazione</h4>
+  <ul className="list-disc pl-6">
+    <li>Piede diabetico</li>
+    <li>Ulcere cutanee e ustioni</li>
+    <li>Problemi circolatori</li>
+    <li>Lesioni cutanee di difficile guarigione</li>
+  </ul>
 
-    <div className="border rounded-xl p-5 bg-gray-50">
-      <h4 className="font-bold text-xl mb-3">Altri ambiti di supporto</h4>
-      <ul className="list-disc pl-6">
-        <li><strong>Fibromialgia</strong></li>
-        <li><strong>Long Covid</strong></li>
-        <li>Stanchezza cronica</li>
-        <li>Emicrania e cefalea tensiva</li>
-        <li>Benessere post-ospedalizzazione/recupero</li>
-      </ul>
-    </div>
-  </div>
+  <h4 className="font-bold text-xl mt-6">Altri ambiti di supporto</h4>
+  <ul className="list-disc pl-6">
+    <li><strong>Fibromialgia</strong></li>
+    <li><strong>Long Covid</strong></li>
+    <li>Stanchezza cronica</li>
+    <li>Emicrania e cefalea tensiva</li>
+    <li>Benessere post-ospedalizzazione/recupero</li>
+  </ul>
 
   <p className="text-sm text-gray-600 mt-6">
     Le indicazioni vengono valutate caso per caso. L&apos;ossigeno-ozonoterapia non sostituisce le terapie mediche convenzionali, ma può integrarsi in un percorso clinico appropriato.
