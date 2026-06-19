@@ -21,16 +21,13 @@ export default function OzoneTherapyPage() {
         <div className="prose max-w-none">
           <h2 className="text-2xl font-semibold mb-6">Cos'è l'Ozonoterapia?</h2>
 
-          <p className="text-lg mb-6">
-            L'ossigeno-ozonoterapia utilizza una <strong>miscela di ossigeno e gas ozono</strong> per il trattamento
-            sintomatico ed eziologico delle malattie umane e animali. Questi gas all'interno del corpo hanno proprietà
-            <strong> antinfiammatorie, analgesiche e antiedemigene</strong> e sono in grado di{" "}
-            <strong>generare benessere</strong>, guarire processi infiammatori e promuovere la{" "}
-            <strong>rigenerazione dei tessuti</strong>. Per queste caratteristiche è diventata una terapia medica di
-            provata sicurezza, efficacia e minima invasività. Secondo il Ministero della Salute, questo tipo di terapia
-            è particolarmente efficace, non solo nel migliorare i sintomi delle ernie discali ma anche nel ridurne il
-            volume, esercitando un vero e proprio <strong>effetto curativo</strong>.
-          </p>
+         <p className="text-lg mb-6">
+  L’ossigeno-ozonoterapia utilizza una miscela di ossigeno e ozono impiegata in diversi ambiti della pratica medica come supporto nel trattamento di specifiche condizioni cliniche. Le modalità di applicazione vengono valutate dal medico in base alle caratteristiche del paziente e al quadro clinico.
+
+  L’ozono medicale è oggetto di interesse per le sue proprietà biologiche e viene utilizzato, in contesti appropriati, come supporto nei percorsi terapeutici rivolti a patologie muscolo-scheletriche, stati infiammatori e condizioni dolorose.
+
+  Per le sue caratteristiche di minima invasività, l’ossigeno-ozonoterapia viene integrata in protocolli personalizzati dopo una valutazione medica specialistica, con l’obiettivo di favorire il benessere della persona e il recupero della funzionalità.
+</p>
         </div>
       </div>
 
