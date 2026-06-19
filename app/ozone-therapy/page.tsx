@@ -155,35 +155,35 @@ export default function OzoneTherapyPage() {
           <AccordionItem value="administration-methods">
             <AccordionTrigger className="text-2xl font-bold py-5">Metodi di Somministrazione</AccordionTrigger>
             <AccordionContent>
-             <div className="prose prose-lg max-w-none leading-relaxed">
+            <p className="text-xl leading-relaxed">
                 <p className="text-lg">
                   L'ozonoterapia può essere somministrata localmente o sistemicamente a seconda delle patologie da
                   trattare.
                 </p>
-                <p className="text-lg">
+               <p className="text-xl leading-relaxed">
                   Le varie vie di somministrazione possono anche essere utilizzate da sole o in combinazione, per
                   esercitare un effetto sinergico.
                 </p>
-                <p className="text-lg">Le principali vie di somministrazione sono:</p>
+               <p className="text-xl font-medium">
 
                 <h4 className="font-semibold mt-4">Sistemica:</h4>
-                <p className="text-lg">
+              <h4 className="font-bold text-xl mt-6">Sistemica:</h4>
                   Applicata nei casi in cui la prognosi e la progressione della malattia possono beneficiare della
                   modulazione della risposta infiammatoria o di un migliore apporto di ossigeno ai tessuti. Questi
                   includono:
                 </p>
-                <ul className="list-disc pl-6">
+               <ul className="list-disc pl-6 text-lg">
                   <li>Grande Auto-emoterapia (GAET) – venosa;</li>
                   <li>Piccola Auto-emoterapia Infusionale (PAEI) – muscolo profondo;</li>
                   <li>Rettale</li>
                 </ul>
 
-                <h4 className="font-semibold mt-4">Locale:</h4>
+                <h4 className="font-bold text-xl mt-6">Locale:</h4>
                 <p className="text-lg">
                   Applicata quando c'è la necessità di sfruttare gli effetti analgesici, antinfiammatori e miorilassanti
                   per patologie muscolo-scheletriche, intestinali e altre. La somministrazione avviene tramite:
                 </p>
-                <ul className="list-disc pl-6">
+                <ul className="list-disc pl-6 text-lg">
                   <li>Intramuscolare, paravertebrale</li>
                   <li>Sottocutanea</li>
                   <li>Peri-articolare</li>
