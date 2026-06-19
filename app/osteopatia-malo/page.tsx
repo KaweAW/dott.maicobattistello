@@ -42,7 +42,7 @@ export default function OsteopatiaMaloPage() {
 
           <h2 className="text-2xl font-semibold mb-6">{seoData.h2}</h2>
 
-       ```tsx
+  
 <p className="text-lg mb-6">
   L’<strong>Osteopatia</strong> è una disciplina manuale che considera la persona nella sua globalità, con l’obiettivo di individuare e trattare le alterazioni funzionali che possono contribuire a <strong>dolore</strong>, rigidità e limitazioni del movimento.
 
@@ -50,7 +50,7 @@ export default function OsteopatiaMaloPage() {
 
   Il trattamento osteopatico può essere utile in presenza di lombalgia, cervicalgia, dolori articolari, disturbi posturali e problematiche muscolo-scheletriche, sempre nell’ambito di un percorso individualizzato orientato al recupero della <strong>funzionalità</strong>, della <strong>mobilità</strong> e del benessere generale della persona.
 </p>
-```
+
 
         </div>
       </div>
