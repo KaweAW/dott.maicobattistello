@@ -200,7 +200,7 @@ export default function OzoneTherapyPage() {
             <AccordionContent>
         <div className="prose prose-lg max-w-none leading-relaxed">
 <p className="text-xl">
-    L&apos;ossigeno-ozonoterapia può essere utilizzata come supporto in diversi quadri clinici, sempre dopo una valutazione medica e all&apos;interno di un percorso personalizzato.
+    L'ossigeno-ozonoterapia può essere utilizzata come supporto in diversi quadri clinici, sempre dopo una valutazione medica e all&apos;interno di un percorso personalizzato.
   </p>
 
  <h4 className="font-bold text-2xl mt-8">
@@ -239,7 +239,7 @@ export default function OzoneTherapyPage() {
   </ul>
 
 <p className="text-base text-gray-600 mt-8 leading-relaxed">
-    Le indicazioni vengono valutate caso per caso. L&apos;ossigeno-ozonoterapia non sostituisce le terapie mediche convenzionali, ma può integrarsi in un percorso clinico appropriato.
+    Le indicazioni vengono valutate caso per caso. L'ossigeno-ozonoterapia non sostituisce le terapie mediche convenzionali, ma può integrarsi in un percorso clinico appropriato.
   </p>
 </div>
 </AccordionContent>
