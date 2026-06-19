@@ -27,6 +27,7 @@ export const metadata: Metadata = {
 };
 
 export default function OzonoOsteoMarosticaPage() {
+  return (
     <div className="pt-20">
       {/* Breadcrumb */}
       <div className="w-full">
