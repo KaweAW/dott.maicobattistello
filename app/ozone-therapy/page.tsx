@@ -199,7 +199,7 @@ export default function OzoneTherapyPage() {
             <AccordionTrigger className="text-2xl font-bold py-5">Indicazioni Clinico-Terapeutiche</AccordionTrigger>
             <AccordionContent>
         <div className="prose prose-lg max-w-none leading-relaxed">
- <p className="text-xl leading-relaxed">
+<p className="text-xl">
     L&apos;ossigeno-ozonoterapia può essere utilizzata come supporto in diversi quadri clinici, sempre dopo una valutazione medica e all&apos;interno di un percorso personalizzato.
   </p>
 
