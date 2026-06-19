@@ -44,12 +44,14 @@ export default function OsteopatiaMaloPage() {
 
   
 <p className="text-lg mb-6">
-  L’<strong>Osteopatia</strong> è una disciplina manuale che considera la persona nella sua globalità, con l’obiettivo di individuare e trattare le alterazioni funzionali che possono contribuire a <strong>dolore</strong>, rigidità e limitazioni del movimento.
+  L’Osteopatia è una disciplina manuale che considera la persona nella sua globalità, con l’obiettivo di individuare e trattare le alterazioni funzionali che possono contribuire a <strong>dolore</strong>, rigidità e limitazioni del movimento.
 
-A <strong>Monte di Malo</strong>, il Dr. Maico Battistello svolge <strong>trattamenti osteopatici personalizzati</strong> presso il <strong>Centro Medico Medicalis</strong>, rivolti ad adulti, anziani, sportivi e donne in gravidanza, attraverso una valutazione accurata della postura, della mobilità articolare e delle tensioni muscolo-fasciali.
+  A <strong>Monte di Malo</strong>, il Dr. Maico Battistello svolge <strong>trattamenti osteopatici personalizzati</strong> rivolti ad adulti, anziani, sportivi e donne in gravidanza, attraverso una valutazione accurata della postura, della mobilità articolare e delle tensioni muscolo-fasciali.
 
   Il trattamento osteopatico può essere utile in presenza di lombalgia, cervicalgia, dolori articolari, disturbi posturali e problematiche muscolo-scheletriche, sempre nell’ambito di un percorso individualizzato orientato al recupero della <strong>funzionalità</strong>, della <strong>mobilità</strong> e del benessere generale della persona.
 </p>
+```
+
 
 
         </div>
