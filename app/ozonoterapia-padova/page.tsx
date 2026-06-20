@@ -84,92 +84,32 @@ export default function OzonoterapiaPadovaPage() {
         <div className="prose max-w-none">
           <h1 className="text-3xl font-bold mb-6">{seoData.h1}</h1>
 
-          <h2 className="text-2xl font-semibold mb-6">{seoData.h2}</h2>
+        <h2 className="text-2xl font-semibold mb-6">{seoData.h2}</h2>
 
-          <p className="text-lg mb-6">
-            L'<strong>ozonoterapia a Padova</strong> del Dr. Maico Battistello rappresenta una soluzione terapeutica
-            all'avanguardia per il trattamento di numerose patologie. L'ossigeno-ozonoterapia utilizza una{" "}
-            <strong>miscela di ossigeno e gas ozono</strong> per il trattamento sintomatico ed eziologico delle malattie
-            umane e animali. Questi gas all'interno del corpo hanno proprietà{" "}
-            <strong>antinfiammatorie, analgesiche e antiedemigene</strong> e sono in grado di{" "}
-            <strong>generare benessere</strong>, guarire processi infiammatori e promuovere la{" "}
-            <strong>rigenerazione dei tessuti</strong>.
-          </p>
+<p className="text-lg mb-6">
+  A <strong>Padova</strong>, il Dr. Maico Battistello utilizza l'ossigeno-ozonoterapia in un percorso personalizzato,
+  rivolto in particolare a disturbi muscolo-scheletrici, dolore cronico e problematiche funzionali della colonna.
+  Il trattamento viene valutato in base alla condizione del paziente, alla sede del disturbo e agli obiettivi clinici.
+</p>
 
-          <p className="text-lg mb-6">
-            Il <strong>Dr. Maico Battistello</strong> è uno dei principali specialisti in{" "}
-            <strong>ozonoterapia a Padova</strong> e provincia, con anni di esperienza nel trattamento di{" "}
-            <strong>ernie discali, artrosi, dolori cervicali e lombari</strong>. I suoi pazienti provengono da tutta la
-            provincia di Padova, inclusi comuni come Abano Terme, Cittadella, Camposampiero, Piove di Sacco, Este,
-            Monselice e molti altri, attratti dalla sua competenza e dai risultati clinici eccellenti.
-          </p>
+<p className="text-lg mb-6">
+  L'ozonoterapia può essere indicata quando è presente una componente <strong>infiammatoria</strong>,
+  dolorosa o articolare, con l'obiettivo di contribuire alla riduzione del <strong>dolore</strong>,
+  al miglioramento della <strong>funzionalità</strong> e a una migliore qualità del movimento.
+</p>
 
-          <h3 className="text-xl font-semibold mb-4">Perché Scegliere l'Ozonoterapia a Padova</h3>
-          <p className="text-lg mb-6">
-            La <strong>terapia con ozono a Padova</strong> offerta dal Dr. Battistello si distingue per:
-          </p>
-          <ul className="list-disc pl-6 mb-6 space-y-2">
-            <li>
-              <strong>Esperienza clinica comprovata</strong> nel territorio padovano da oltre 10 anni
-            </li>
-            <li>
-              <strong>Tecnologie all'avanguardia</strong> certificate secondo gli standard internazionali
-            </li>
-            <li>
-              <strong>Approccio personalizzato</strong> per ogni paziente e patologia
-            </li>
-            <li>
-              <strong>Risultati documentati</strong> su migliaia di pazienti trattati
-            </li>
-            <li>
-              <strong>Collaborazione con centri medici</strong> di eccellenza a Padova
-            </li>
-          </ul>
+<h3 className="text-xl font-semibold mb-4">
+  Quando può essere indicata l'ozonoterapia a Padova
+</h3>
 
-          <h3 className="text-xl font-semibold mb-4">Dove Riceve il Dr. Battistello a Padova</h3>
-          <p className="text-lg mb-6">
-            Il Dr. Maico Battistello riceve per <strong>ozonoterapia a Padova</strong> presso:
-          </p>
-          <ul className="list-disc pl-6 mb-6 space-y-2">
-            <li>
-              <strong>Clinica Cittàgiardino</strong> - Via del Commissario, 1, Padova
-            </li>
-            <li>
-              <strong>Clinica Medicina Amica</strong> - Struttura specializzata in terapie innovative
-            </li>
-          </ul>
-
-          <p className="text-lg mb-6">
-            Per queste caratteristiche è diventata una terapia medica di provata sicurezza, efficacia e minima
-            invasività. Secondo il Ministero della Salute, questo tipo di terapia è particolarmente efficace, non solo
-            nel migliorare i sintomi delle ernie discali ma anche nel ridurne il volume, esercitando un vero e proprio{" "}
-            <strong>effetto curativo</strong>.
-          </p>
-        </div>
-      </div>
-
-      {/* Image Carousel Section */}
-      <div className="-mt-8 mb-12">
-        <QuadrantCarousel
-          items={[
-            {
-              title: "Ozonoterapia Padova - Trattamento Combinato",
-              image: "/images/nuovaozonosteo1.jpg",
-              link: `/ozonoterapia-${city.slug}`,
-            },
-            {
-              title: "Centro Ozonoterapia Padova - Terapia Integrata",
-              image: "/images/osteozonoterapia1.jpg",
-              link: `/ozonoterapia-${city.slug}`,
-            },
-            {
-              title: "Specialista Ozonoterapia Padova - Risultati Clinici",
-              image: "/images/osteozonoterapia2.jpg",
-              link: `/ozonoterapia-${city.slug}`,
-            },
-            {
-              title: "Dr. Battistello Padova - Ozonoterapia Avanzata",
-              image: "/images/ozonoterapia.jpg",
+<ul className="list-disc pl-6 mb-6 space-y-2">
+  <li>Cervicalgia e lombalgia</li>
+  <li>Ernie e protrusioni discali</li>
+  <li>Sciatalgia e dolore radicolare</li>
+  <li>Artrosi e problematiche articolari</li>
+  <li>Tendinopatie e dolore muscolo-scheletrico</li>
+  <li>Limitazioni della mobilità e recupero funzionale</li>
+</ul>
               link: `/ozonoterapia-${city.slug}`,
             },
             {
@@ -244,28 +184,6 @@ export default function OzonoterapiaPadovaPage() {
         </div>
       </div>
 
-      {/* Testimonianze Section */}
-      <div className="bg-gray-50 py-12">
-        <div className="container mx-auto px-4 max-w-4xl">
-          <h3 className="text-2xl font-bold text-center mb-8">Cosa Dicono i Pazienti dell'Ozonoterapia a Padova</h3>
-          <div className="grid md:grid-cols-2 gap-6">
-            <div className="bg-white p-6 rounded-lg shadow-md">
-              <p className="text-gray-600 mb-4">
-                "Dopo anni di dolore alla schiena, l'ozonoterapia del Dr. Battistello a Padova mi ha ridato la vita. In
-                poche sedute ho visto miglioramenti incredibili."
-              </p>
-              <p className="font-semibold">- Maria R., Abano Terme</p>
-            </div>
-            <div className="bg-white p-6 rounded-lg shadow-md">
-              <p className="text-gray-600 mb-4">
-                "Professionalità e competenza eccezionali. Il Dr. Battistello è il miglior specialista in ozonoterapia
-                di tutta la provincia di Padova."
-              </p>
-              <p className="font-semibold">- Giuseppe L., Cittadella</p>
-            </div>
-          </div>
-        </div>
-      </div>
 
       {/* FAQ Section */}
       <div className="container mx-auto px-4 py-8 max-w-4xl">
@@ -299,32 +217,10 @@ export default function OzonoterapiaPadovaPage() {
               L'ozonoterapia a Padova è davvero efficace?
             </AccordionTrigger>
             <AccordionContent>
-              <p className="text-lg">
-                Sì, l'ozonoterapia a Padova del Dr. Battistello ha dimostrato alta efficacia nel trattamento di ernie
-                discali, artrosi, dolori cervicali e lombari. Il Ministero della Salute riconosce l'ozonoterapia come
-                terapia medica sicura ed efficace, con evidenze scientifiche di tipo A per molte patologie.
-              </p>
-            </AccordionContent>
-          </AccordionItem>
-
-          <AccordionItem value="prenotazione-ozonoterapia-padova">
-            <AccordionTrigger className="text-lg font-semibold">
-              Come prenotare l'ozonoterapia a Padova?
-            </AccordionTrigger>
-            <AccordionContent>
-              <p className="text-lg">
-                Per prenotare una seduta di ozonoterapia a Padova con il Dr. Battistello, puoi utilizzare il modulo di
-                contatto presente in questa pagina, chiamare direttamente le cliniche o inviare un messaggio WhatsApp.
-                Il Dr. Battistello risponde personalmente a tutte le richieste.
-              </p>
-            </AccordionContent>
-          </AccordionItem>
-        </Accordion>
-      </div>
-
-      {/* Collapsible Sections */}
-      <section className="py-8 container mx-auto">
-        <Accordion type="single" collapsible className="w-full">
+            <p className="text-lg">
+  L'efficacia dell'ozonoterapia dipende dalla condizione trattata, dalla valutazione clinica e dalla risposta individuale del paziente. In ambito muscolo-scheletrico può essere indicata come supporto terapeutico per dolore, infiammazione e limitazioni funzionali, sempre dopo valutazione medica.
+</p>
+        
           <AccordionItem value="administration-methods">
             <AccordionTrigger className="text-xl font-semibold">
               Metodi di Somministrazione dell'Ozonoterapia a {city.name}
@@ -481,41 +377,8 @@ export default function OzonoterapiaPadovaPage() {
             telephone: "+39-XXX-XXXXXXX",
             email: "info@dottmaicobattistello.it",
             hasMap: "https://maps.google.com/?q=Padova+ozonoterapia",
-            review: [
-              {
-                "@type": "Review",
-                reviewRating: {
-                  "@type": "Rating",
-                  ratingValue: "5",
-                  bestRating: "5",
-                },
-                author: {
-                  "@type": "Person",
-                  name: "Maria R.",
-                },
-                reviewBody:
-                  "Dopo anni di dolore alla schiena, l'ozonoterapia del Dr. Battistello a Padova mi ha ridato la vita. In poche sedute ho visto miglioramenti incredibili.",
-              },
-              {
-                "@type": "Review",
-                reviewRating: {
-                  "@type": "Rating",
-                  ratingValue: "5",
-                  bestRating: "5",
-                },
-                author: {
-                  "@type": "Person",
-                  name: "Giuseppe L.",
-                },
-                reviewBody:
-                  "Professionalità e competenza eccezionali. Il Dr. Battistello è il miglior specialista in ozonoterapia di tutta la provincia di Padova.",
-              },
-            ],
-            aggregateRating: {
-              "@type": "AggregateRating",
-              ratingValue: "4.9",
-              reviewCount: "127",
-            },
+          
+              
           }),
         }}
       />
