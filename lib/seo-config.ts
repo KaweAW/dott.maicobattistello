@@ -207,7 +207,7 @@ export const services: ServiceConfig[] = [
     slug: "ozono-osteo",
     description: "Trattamento combinato innovativo di ozonoterapia e osteopatia per risultati superiori",
     longDescription:
-      "Il Dr. Maico Battistello ha sviluppato un trattamento combinato unico di ozonoterapia e osteopatia, ottenendo risultati clinici che nessuna delle due discipline da sola può fornire.",
+"Il Dr. Maico Battistello utilizza l'ossigeno-ozonoterapia e l'osteopatia in modo integrato quando la valutazione clinica lo ritiene appropriato. L'obiettivo è offrire un approccio personalizzato che consideri la persona nella sua globalità, combinando competenze e strumenti terapeutici differenti all'interno di un percorso personalizzato."
     keywords: [
       "ozonoterapia osteopatia",
       "trattamento combinato",
