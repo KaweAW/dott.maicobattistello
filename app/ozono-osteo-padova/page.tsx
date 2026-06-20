@@ -47,7 +47,7 @@ export default function OzonoOsteoPadovaPage() {
 
          <AnimatedScrollElement direction="up" delay={0.1}>
   <p className="text-lg mb-6">
-    A <strong>Padova</strong>, il Dr. Maico Battistello integra ossigeno-ozonoterapia e osteopatia in un percorso personalizzato rivolto a pazienti con dolore muscolo-scheletrico, disturbi articolari e problematiche funzionali della colonna. In un contesto urbano, dove sedentarietà, lavoro d'ufficio e sovraccarichi posturali sono frequenti, l'approccio integrato permette di valutare sia la componente <strong>infiammatoria</strong> sia le alterazioni della <strong>mobilità articolare, muscolare o posturale</strong>.
+    A <strong>Padova</strong>, il Dr. Maico Battistello integra ossigeno-ozonoterapia e osteopatia in un percorso personalizzato rivolto a pazienti con dolore muscolo-scheletrico, disturbi articolari e problematiche funzionali della colonna. In un contesto urbano, dove sedentarietà, lavoro d'ufficio e sovraccarichi posturali sono frequenti, l'approccio integrato permette di affrontare problematiche frequentemente associate a <strong>sedentarietà</strong>, <strong>lavoro d'ufficio</strong> e <strong>sovraccarichi posturali</strong>, valutando sia gli aspetti <strong>funzionali</strong> sia quelli <strong>infiammatori</strong> del disturbo.
   </p>
 </AnimatedScrollElement>
          <AnimatedScrollElement direction="up" delay={0.2}>
