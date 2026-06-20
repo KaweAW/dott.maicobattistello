@@ -45,32 +45,25 @@ export default function OzonoOsteoPadovaPage() {
         <div className="prose max-w-none">
           <h1 className="text-3xl font-bold mb-6">{seoData.h1}</h1>
 
-          <AnimatedScrollElement direction="up" delay={0.1}>
-            <p className="text-lg mb-6">
-              A <strong>{city.name}</strong>, {service.longDescription} Le proprietà naturali{" "}
-              <strong>antinfiammatorie</strong> e miorilassanti dell'{" "}
-              <AnimatedLink href="/ozone-therapy" className="text-primary">
-                Ozonoterapia
-              </AnimatedLink>
-              , combinate con il riallineamento posturale della{" "}
-              <AnimatedLink href="/osteopathy" className="text-primary">
-                Manipolazione Osteopatica
-              </AnimatedLink>
-              , producono risultati eccezionali nella provincia di <strong>{city.province}</strong>, specialmente per
-              condizioni croniche che impattano la vita quotidiana.
-            </p>
-          </AnimatedScrollElement>
-
-          <AnimatedScrollElement direction="up" delay={0.2}>
-            <h3 className="text-xl font-semibold mb-4">
-              Le condizioni che ne beneficiano maggiormente a {city.name} includono:
-            </h3>
-            <ul className="list-disc pl-6 mb-6 space-y-2">
-              <li>Disturbi spinali (cervicali/lombari) da ernie discali, artrosi, traumi</li>
-              <li>Dolore radicolare dovuto a ernie discali (irradiato a braccia o gambe)</li>
-              <li>Artrosi dell'anca e del ginocchio (coxartrosi e gonartrosi)</li>
-            </ul>
-          </AnimatedScrollElement>
+         <AnimatedScrollElement direction="up" delay={0.1}>
+  <p className="text-lg mb-6">
+    A <strong>Padova</strong>, il Dr. Maico Battistello integra ossigeno-ozonoterapia e osteopatia in un percorso personalizzato rivolto a pazienti con dolore muscolo-scheletrico, disturbi articolari e problematiche funzionali della colonna. In un contesto urbano, dove sedentarietà, lavoro d'ufficio e sovraccarichi posturali sono frequenti, l'approccio integrato permette di valutare sia la componente <strong>infiammatoria</strong> sia le alterazioni della <strong>mobilità articolare, muscolare o posturale</strong>.
+  </p>
+</AnimatedScrollElement>
+         <AnimatedScrollElement direction="up" delay={0.2}>
+  <h3 className="text-xl font-semibold mb-4">
+    Quando può essere indicato l'approccio integrato a Padova
+  </h3>
+  <ul className="list-disc pl-6 mb-6 space-y-2">
+    <li>Cervicalgia e lombalgia</li>
+    <li>Dolore cervicale legato a postura e lavoro sedentario</li>
+    <li>Ernie e protrusioni discali</li>
+    <li>Sciatalgia e dolore radicolare</li>
+    <li>Artrosi e problematiche articolari</li>
+    <li>Contratture muscolari persistenti</li>
+    <li>Disturbi muscolo-scheletrici cronici</li>
+  </ul>
+</AnimatedScrollElement>
 
           <AnimatedScrollElement direction="up" delay={0.4}>
             <div className="mt-8 text-center">
