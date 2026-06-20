@@ -45,31 +45,26 @@ export default function OzonoOsteoMarosticaPage() {
         <div className="prose max-w-none">
           <h1 className="text-3xl font-bold mb-6">{seoData.h1}</h1>
 
-          <AnimatedScrollElement direction="up" delay={0.1}>
-         <p className="text-lg mb-6">
-           A <strong>Marostica</strong>, il Dr. Maico Battistello integra ossigeno-ozonoterapia e osteopatia in un percorso clinico personalizzato, rivolto soprattutto a disturbi muscolo-scheletrici, dolore cronico e problematiche funzionali della colonna. La combinazione tra valutazione medica, trattamento ozonoterapico e approccio osteopatico permette di considerare non solo il sintomo, ma anche il contesto posturale e funzionale della persona.
-   </p>
-          </AnimatedScrollElement>
+         <AnimatedScrollElement direction="up" delay={0.1}>
+  <p className="text-lg mb-6">
+    A <strong>Marostica</strong>, il Dr. Maico Battistello integra ossigeno-ozonoterapia e osteopatia in un percorso personalizzato rivolto a persone con dolore muscolo-scheletrico, limitazioni funzionali e problematiche articolari. L'approccio combinato consente di valutare sia la componente <strong>infiammatoria</strong> sia le alterazioni della <strong>mobilità articolare, muscolare o posturale</strong>, adattando il trattamento alle caratteristiche e agli obiettivi della singola persona.
+  </p>
+</AnimatedScrollElement>
 
-          <AnimatedScrollElement direction="up" delay={0.2}>
-            <h3 className="text-xl font-semibold mb-4">
-              Le condizioni che ne beneficiano maggiormente a {city.name}{" "}
-              includono:
-            </h3>
-            <ul className="list-disc pl-6 mb-6 space-y-2">
-              <li>
-                Disturbi spinali (cervicali/lombari) da ernie discali, artrosi,
-                traumi
-              </li>
-              <li>
-                Dolore radicolare dovuto a ernie discali (irradiato a braccia o
-                gambe)
-              </li>
-              <li>
-                Artrosi dell'anca e del ginocchio (coxartrosi e gonartrosi)
-              </li>
-            </ul>
-          </AnimatedScrollElement>
+         <AnimatedScrollElement direction="up" delay={0.2}>
+  <h3 className="text-xl font-semibold mb-4">
+    Quando può essere indicato l'approccio integrato a Marostica
+  </h3>
+  <ul className="list-disc pl-6 mb-6 space-y-2">
+    <li>Cervicalgia e lombalgia</li>
+    <li>Ernie e protrusioni discali</li>
+    <li>Sciatalgia e dolore radicolare</li>
+    <li>Artrosi e problematiche articolari</li>
+    <li>Contratture muscolari persistenti</li>
+    <li>Limitazioni della mobilità e recupero funzionale</li>
+    <li>Disturbi muscolo-scheletrici cronici</li>
+  </ul>
+</AnimatedScrollElement>
 
           <AnimatedScrollElement direction="up" delay={0.4}>
             <div className="mt-8 text-center">
