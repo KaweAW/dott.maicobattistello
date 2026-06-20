@@ -41,7 +41,7 @@ export default function OzoneTherapyPage() {
             <Link href="/ozonoterapia-padova" className="text-blue-600 hover:text-blue-800 underline font-medium">
               → Ozonoterapia a Padova
             </Link>
-            <Link href="/ozonoterapia-vicenza" className="text-blue-600 hover:text-blue-800 underline font-medium">
+         <Link href="/ozonoterapia-marostica" className="text-blue-600 hover:text-blue-800 underline font-medium">
               → Ozonoterapia a Marostica
             </Link>
             <Link href="/ozonoterapia-schio" className="text-blue-600 hover:text-blue-800 underline font-medium">
