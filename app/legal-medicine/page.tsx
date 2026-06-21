@@ -2,15 +2,14 @@ import Link from "next/link"
 import Breadcrumb from "@/components/breadcrumb"
 import Image from "next/image"
 import AnimatedScrollElement from "@/components/animated-scroll-element"
-
 export const metadata = {
   title: "Medicina Legale - Dr. Maico Battistello | Consulenze Specialistiche",
   description:
     "Consulenze medico-legali specialistiche e perizie per danni da incidenti e malattie. Valutazione accurata del danno biologico e invalidità permanente.",
 alternates: {
   canonical: "https://dottmaicobattistello.it/medicina-legale",
-},
-
+ },
+}
 export default function LegalMedicinePage() {
   return (
     <div className="pt-20">
