@@ -27,8 +27,10 @@ export const metadata: Metadata = {
     description: "Dr. Maico Battistello, specializzato in Osteopatia, Ozonoterapia e Medicina Legale",
     images: ["https://dottmaicobattistello.it/images/medicinalegale1.jpg"],
   },
+  alternates: {
+  canonical: "https://dottmaicobattistello.it/chi-sono",
+},
 }
-
 export default function AboutMePage() {
   const jsonLd = {
     "@context": "https://schema.org",
