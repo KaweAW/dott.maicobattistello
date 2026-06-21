@@ -7,6 +7,15 @@ import AnimatedScrollElement from "@/components/animated-scroll-element"
 import AnimatedLink from "@/components/animated-link"
 import QuadrantCarousel from "@/components/quadrant-carousel"
 
+export const metadata = {
+  title: "Ozonoterapia e Osteopatia - Dr. Maico Battistello",
+  description:
+    "Approccio integrato tra ossigeno-ozonoterapia e osteopatia per disturbi muscolo-scheletrici, dolore e recupero funzionale.",
+  alternates: {
+    canonical: "https://dottmaicobattistello.it/ozonoterapia-osteopatia",
+  },
+}
+
 export default function OzoneOsteopathyPage() {
   return (
     <div className="pt-20">
