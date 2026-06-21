@@ -2,7 +2,14 @@ import Breadcrumb from "@/components/breadcrumb"
 import ContactForm from "@/components/contact-form"
 import QuadrantCarousel from "@/components/quadrant-carousel"
 import Link from "next/link"
-
+export const metadata = {
+  title: "Osteopatia - Dr. Maico Battistello",
+  description:
+    "Osteopatia per dolori muscolo-scheletrici, cervicalgia, lombalgia e problematiche posturali. Visite a Marostica, Schio, Padova e Monte di Malo.",
+  alternates: {
+    canonical: "https://dottmaicobattistello.it/osteopatia",
+  },
+}
 export default function OsteopathyPage() {
   return (
     <div className="pt-20">
