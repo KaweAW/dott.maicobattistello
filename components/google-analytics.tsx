@@ -14,8 +14,9 @@ export default function GoogleAnalytics() {
   const searchParams = useSearchParams()
 
   useEffect(() => {
-    if (typeof window.gtag !== "undefined") {
-      window.gtag("config", "G-C3FPBVTC8P", {
+    const gaId = process.env.NEXT_PUBLIC_GA_ID
+    if (typeof window.gtag !== "undefined" && gaId) {
+      window.gtag("config", gaId, {
         page_path: pathname + searchParams.toString(),
       })
     }
